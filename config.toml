@@ -1,0 +1,7 @@
+baseURL = "http://ds4b.dev"
+languageCode = "en-us"
+title = "Data Science for Biotechnology"
+theme = "hugo-theme-learn"
+
+[outputs]
+home = ["HTML", "RSS", "JSON"]
