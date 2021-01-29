@@ -10,7 +10,7 @@ pre = "<b></b>"
 
 #### Reading List
 
-> You are what you eat. You are the media you consume. So let's nourish our brains with good food.
+> Similar to the saying, *you are what you eat*, in today's world, *you are the media you consume*. So let's nourish our brains with good food. 🍴
 
 - Week 1: Introduction to the Course
   - [AI & surgery](https://towardsdatascience.com/artificial-intelligence-surgery-and-trust-7c3a4a0c0c40)
