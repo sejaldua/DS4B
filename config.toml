@@ -1,7 +1,8 @@
-baseURL = "http://ds4b.dev"
+baseURL = "https://sejaldua.github.io/DS4B/"
 languageCode = "en-us"
 title = "Data Science for Biotechnology"
 theme = "hugo-theme-learn"
+publishDir = "docs"
 
 [outputs]
 home = ["HTML", "RSS", "JSON"]
