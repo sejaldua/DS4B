@@ -1,4 +1,4 @@
-baseURL = "https://sejaldua.github.io/DS4B/"
+baseURL = "https://datascience4biotech.com"
 languageCode = "en-us"
 title = "Data Science for Biotechnology"
 theme = "hugo-theme-learn"
