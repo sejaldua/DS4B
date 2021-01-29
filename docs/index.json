@@ -7,7 +7,7 @@
 	"content": "About Us    Sook-Hee Evans Sejal Dua          "
 },
 {
-	"uri": "https://datascience4biotech.com/info/",
+	"uri": "https://datascience4biotech.com/",
 	"title": "Course Overview",
 	"tags": [],
 	"description": "",
@@ -33,13 +33,6 @@
 	"tags": [],
 	"description": "",
 	"content": "Syllabus Week 1: Intro Unit 1: Data Science Fundamentals Week 2: Exploratory Data Analysis Playground Week 3: Data Visualization Week 4: Neural Networks Unit 2: Breakthroughs in Biotech Week 5: Imaging / Diagnostics Week 6: NLP for Scientific Research Week 7: Feature Engineering for Drug Discovery Week 8: Genetic Algorithms and Clustering Week 9: Decision Trees for Drug Discovery Unit 3: Becoming Practitioners  Week 10: Data Ethics Week 11: Roadblocks, Pipelines, and Scalability Week 12: Finding Applications Around You "
-},
-{
-	"uri": "https://datascience4biotech.com/",
-	"title": "Data Science for Biotechnology",
-	"tags": [],
-	"description": "",
-	"content": ""
 },
 {
 	"uri": "https://datascience4biotech.com/categories/",
