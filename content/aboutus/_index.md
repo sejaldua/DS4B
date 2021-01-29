@@ -6,7 +6,7 @@ chapter = true
 pre = "<b></b>"
 +++
 
-# About Us
+## About Us
 
 | Sook-Hee Evans | Sejal Dua |
 | ------------ | ------------ |

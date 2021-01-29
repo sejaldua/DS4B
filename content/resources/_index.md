@@ -6,9 +6,9 @@ chapter = true
 pre = "<b></b>"
 +++
 
-# Resources
+## Resources
 
-## Python
+### Python
 
-## TED Talks
+### TED Talks
 
