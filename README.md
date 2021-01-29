@@ -1,7 +1,7 @@
 # Data Science 4 Biotech
 
-Tufts Experimental College // Spring 2021
-Taught by Sook-Hee Evans and Sejal Dua
+Tufts Experimental College | Spring 2021  
+Taught by Sook-Hee Evans and Sejal Dua  
 
 ## Course Description
 
