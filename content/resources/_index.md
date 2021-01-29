@@ -8,17 +8,28 @@ pre = "<b></b>"
 
 ## Resources
 
-#### Articles
+#### Reading List
+
+> You are what you eat. You are the media you consume. So let's nourish our brains with good food.
 
 - Week 1: Introduction to the Course
   - [AI & surgery](https://towardsdatascience.com/artificial-intelligence-surgery-and-trust-7c3a4a0c0c40)
   - [Computer Vision & Self-Driving Cars](https://towardsdatascience.com/how-do-self-driving-cars-see-13054aee2503)
-  - [Introduction to Machine Learning](https://www.digitalocean.com/community/tutorials/an-introduction-to-machine-learning)
   - [OpenAI’s new language generator GPT-3 is shockingly good - and completely mindless](https://www.technologyreview.com/2020/07/20/1005454/openai-machine-learning-language-generator-gpt-3-nlp/)
-  
-#### Data Science Techniques
-
-
+- Week 2: Exploratory Data Analysis
+  - [Introduction to Machine Learning](https://www.digitalocean.com/community/tutorials/an-introduction-to-machine-learning)
+- Week 3: Data Visualization
+  - [The beauty of data visualization | TED Talk by David McCandless](https://youtu.be/5Zg-C8AAIGg)
+- Week 4: Neural Networks
+- Week 5: Imaging & Diagnostics
+- Week 6: Natural Language Processing for Scientific Research
+- Week 7: Feature Engineering for Drug Discovery
+- Week 8: Genetic Algorithms and Sequencing
+- Week 9: Decision Trees for Drug Development / Discovery
+- Week 10: Data Ethics, Cybersecurity, and Social Justice
+  - [Black-Box Algorithms Shouldn’t Decide Who Gets a Vaccine](https://onezero.medium.com/black-box-algorithms-shouldnt-decide-who-gets-a-vaccine-492be4bbae3c)
+- Week 11: Finding Applications Around You
+- Week 12: Roadblocks, Pipeliens, and Scalability
 #### Datasets
   
 #### Python

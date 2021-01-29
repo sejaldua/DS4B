@@ -25,7 +25,7 @@ pre = "<b></b>"
 - Decision Trees for Drug Development / Discovery [Week 9: March 29, 2021]
 
 #### Unit 3: Becoming a Practitioner
-- Data Ethics & Cybersecurity [Week 10: April 5, 2021]
+- Data Ethics, Cybersecurity, and Social Justice [Week 10: April 5, 2021]
   - **Guest Speaker:** Ming Chow
 - Finding Applications Around You [Week 11: April 12, 2021]
 - Roadblocks, Pipelines, and Scalability [Week 12: April 26, 2021]
