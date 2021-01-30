@@ -8,6 +8,12 @@ pre = "<b></b>"
 
 ## Resources
 
+#### Class Links
+- Week 1: Introduction to the Course
+  - [Data Science vs. Computer Science Jamboard](https://jamboard.google.com/d/1ntpj-70ocjw3SVeuf7Vvx8R5nF-UqybJMj3N4g3amKU/edit?usp=sharing)
+  - [Biotechnology Jamboard](https://jamboard.google.com/d/17jsniEhMqjAtsPK9wkL8No7C2DRd3lxUcwLJoGwkZc8/edit?usp=sharing)
+  - [Jupyter Notebook Setup](https://jupyter.readthedocs.io/en/latest/install/notebook-classic.html)
+
 #### Reading List
 
 > Similar to the saying, *you are what you eat*, in today's world, *you are the media you consume*. So let's nourish our brains with good food. 🍴
