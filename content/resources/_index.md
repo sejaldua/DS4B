@@ -8,7 +8,7 @@ pre = "<b></b>"
 
 ## Resources
 
-#### Class Links
+#### In-Class Materials
 - Week 1: Introduction to the Course
   - [Data Science vs. Computer Science Jamboard](https://jamboard.google.com/d/1ntpj-70ocjw3SVeuf7Vvx8R5nF-UqybJMj3N4g3amKU/edit?usp=sharing)
   - [Biotechnology Jamboard](https://jamboard.google.com/d/17jsniEhMqjAtsPK9wkL8No7C2DRd3lxUcwLJoGwkZc8/edit?usp=sharing)
@@ -37,9 +37,18 @@ pre = "<b></b>"
 - Week 10: Data Ethics, Cybersecurity, and Social Justice
   - [Black-Box Algorithms Shouldn’t Decide Who Gets a Vaccine](https://onezero.medium.com/black-box-algorithms-shouldnt-decide-who-gets-a-vaccine-492be4bbae3c)
 - Week 11: Finding Applications Around You
-- Week 12: Roadblocks, Pipeliens, and Scalability
+- Week 12: Roadblocks, Pipelines, and Scalability
 #### Datasets
+
+Healthcare / Medicine / Biotech Realm
+- [Pfizer Vaccine Tweets](https://www.kaggle.com/gpreda/pfizer-vaccine-tweets)
+- [COVID-19 Open Research Dataset Challenge (CORD-19)](https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge)
+- [Novel Corona Virus 2019 Dataset](https://www.kaggle.com/sudalairajkumar/novel-corona-virus-2019-dataset)
+- [Heart Disease UCI](https://www.kaggle.com/ronitf/heart-disease-uci)
+- [Chest X-Ray Images (Pneumonia)](https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia)
   
+Miscellaneous
+- 
 #### Python
 
 - [Learn Python by Nina Zakharenko](https://www.learnpython.dev/01-introduction/)
