@@ -17,10 +17,12 @@ pre = "<b></b>"
   - [Computer Vision & Self-Driving Cars](https://towardsdatascience.com/how-do-self-driving-cars-see-13054aee2503)
   - [OpenAI’s new language generator GPT-3 is shockingly good - and completely mindless](https://www.technologyreview.com/2020/07/20/1005454/openai-machine-learning-language-generator-gpt-3-nlp/)
 - Week 2: Exploratory Data Analysis
+  - [An Extensive Step by Step Guide to Exploratory Data Analysis](https://towardsdatascience.com/an-extensive-guide-to-exploratory-data-analysis-ddd99a03199e)
   - [Introduction to Machine Learning](https://www.digitalocean.com/community/tutorials/an-introduction-to-machine-learning)
 - Week 3: Data Visualization
   - [The beauty of data visualization | TED Talk by David McCandless](https://youtu.be/5Zg-C8AAIGg)
 - Week 4: Neural Networks
+  - [Convolutional Neural Network Expalained in 7 Real-Life Examples](https://medium.com/swlh/convolutional-neural-network-expalained-in-7-real-life-examples-6015a64f9d2a)
 - Week 5: Imaging & Diagnostics
 - Week 6: Natural Language Processing for Scientific Research
 - Week 7: Feature Engineering for Drug Discovery
