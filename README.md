@@ -9,3 +9,28 @@ How can data be used to drive forward progress in the field of biotechnology or,
 
 ## About the Instructors
 
+| | |
+| -------- | -------- |
+| **Sook-Hee Evans** is a senior at Tufts University majoring in Data Science and minoring in Engineering Management. She previously interned at Amazon Robotics on the Human-Computer Interaction team, where she built a tool used to find errors in the state machines of robotic workcells, and to help developers visualize the state machine flow. In her free time, Sook-Hee enjoys swimming, cooking, playing Wii with her housemates, and listening to podcasts. | **Sejal Dua** is a senior at Tufts University majoring in Data Science and Biomedical Engineering. She previously interned at IBM Research, where she built a machine learning classifier to identify promising drugs that can be repurposed for cancer treatment. In her free time, Sejal loves consuming sushi, playing ping pong, and tinkering with the Spotify API in order to tailor her music recommendations to her taste. |
+
+
+## Course Schedule
+
+#### Unit 1: Data Science Fundamentals
+  - Week 1: Introduction to the Course [February 1, 2021]
+  - Week 2: Exploratory Data Analysis [February 8, 2021]
+  - Week 3: Data Visualization [February 16, 2021 (fake Monday)]
+  - Week 4: Neural Networks [February 22, 2021]
+
+#### Unit 2: Breakthroughs in Biotech
+- Week 5: Imaging & Diagnostics [March 1, 2021]
+- Week 6: Natural Language Processing for Scientific Research [March 8, 2021]
+- Week 7: Feature Engineering for Drug Discovery [March 15, 2021]
+- Week 8: Genetic Algorithms and Sequencing [March 22, 2021]
+- Week 9: Decision Trees for Drug Development / Discovery [March 29, 2021]
+
+#### Unit 3: Becoming a Practitioner
+- Week 10: Data Ethics, Cybersecurity, and Social Justice [April 5, 2021]
+- Week 11: Finding Applications Around You [April 12, 2021]
+- Week 12: Roadblocks, Pipelines, and Scalability [April 26, 2021]
+- Week 13: Final Class Presentations [May 3, 2021]
