@@ -40,15 +40,14 @@ pre = "<b></b>"
 - Week 12: Roadblocks, Pipelines, and Scalability
 #### Datasets
 
-Healthcare / Medicine / Biotech Realm
-- [Pfizer Vaccine Tweets](https://www.kaggle.com/gpreda/pfizer-vaccine-tweets)
-- [COVID-19 Open Research Dataset Challenge (CORD-19)](https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge)
-- [Novel Corona Virus 2019 Dataset](https://www.kaggle.com/sudalairajkumar/novel-corona-virus-2019-dataset)
-- [Heart Disease UCI](https://www.kaggle.com/ronitf/heart-disease-uci)
-- [Chest X-Ray Images (Pneumonia)](https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia)
-  
-Miscellaneous
-- 
+- Healthcare / Medicine / Biotech Realm
+  - [Pfizer Vaccine Tweets](https://www.kaggle.com/gpreda/pfizer-vaccine-tweets)
+  - [COVID-19 Open Research Dataset Challenge (CORD-19)](https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge)
+  - [Novel Corona Virus 2019 Dataset](https://www.kaggle.com/sudalairajkumar/novel-corona-virus-2019-dataset)
+  - [Heart Disease UCI](https://www.kaggle.com/ronitf/heart-disease-uci)
+  - [Chest X-Ray Images (Pneumonia)](https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia)
+- Miscellaneous
+
 #### Python
 
 - [Learn Python by Nina Zakharenko](https://www.learnpython.dev/01-introduction/)
