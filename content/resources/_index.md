@@ -50,6 +50,7 @@ pre = "<b></b>"
 
 #### Python
 
+- [Dataquest: Python for Data Science Fundamentals](https://app.dataquest.io/course/python-for-data-science-fundamentals)
 - [Learn Python by Nina Zakharenko](https://www.learnpython.dev/01-introduction/)
 - [Intro to Python for Data Science | Datacamp](https://campus.datacamp.com/courses/intro-to-python-for-data-science/chapter-1-python-basics?ex=1)
 
