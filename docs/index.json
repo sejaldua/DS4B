@@ -25,7 +25,7 @@
 	"title": "Homework",
 	"tags": [],
 	"description": "",
-	"content": "Homework Week 1:  Required:  Create a Github account and create a private repository named yourfirstname-yourlastname for your coursework. Example: sook-hee-evans or sejal-dua. Click the “Add a README file” button when initializing the repo. Clone the repository locally to your computer. In the README.md file, please provide the following info:  Name, Class Year, Major, Hometown, Favorite Song Choose 1 article from resources under “Reading List \u0026gt; Week 1” and write down 2-3 key takeaways for next class in your README.   Push your changes and email us the link to your repository. Email us if you have questions or run into problems! We are happy to help.     Suggested/Just for fun:  Find 1 interesting Kaggle dataset for next week\u0026rsquo;s in class activity. Spend some time on Dataquest. We suggest the Data Scientist in Python track, especially for those new to coding or inexperienced with Python, but they also offer courses in R and SQL.    "
+	"content": "Homework "
 },
 {
 	"uri": "https://datascience4biotech.com/resources/",
@@ -33,6 +33,20 @@
 	"tags": [],
 	"description": "",
 	"content": "Resources In-Class Materials  Week 1: Introduction to the Course  Data Science vs. Computer Science Jamboard Biotechnology Jamboard Jupyter Notebook Setup Creating a GitHub Repository Kaggle Datasets Creating a Simple Linear Regression using sklearn    Reading List  Similar to the saying, \u0026ldquo;you are what you eat,\u0026rdquo; in today\u0026rsquo;s world, \u0026ldquo;you are the media you consume.\u0026rdquo; So let\u0026rsquo;s nourish our brains with good food. 🍴🧠\n  Week 1: Introduction to the Course  AI \u0026amp; surgery Computer Vision \u0026amp; Self-Driving Cars OpenAI’s new language generator GPT-3 is shockingly good - and completely mindless   Week 2: Exploratory Data Analysis  An Extensive Step by Step Guide to Exploratory Data Analysis Introduction to Machine Learning   Week 3: Data Visualization  The beauty of data visualization | TED Talk by David McCandless   Week 4: Neural Networks  Convolutional Neural Network Expalained in 7 Real-Life Examples   Week 5: Imaging \u0026amp; Diagnostics Week 6: Natural Language Processing for Scientific Research Week 7: Feature Engineering for Drug Discovery Week 8: Genetic Algorithms and Sequencing Week 9: Decision Trees for Drug Development / Discovery Week 10: Data Ethics, Cybersecurity, and Social Justice  Black-Box Algorithms Shouldn’t Decide Who Gets a Vaccine   Week 11: Finding Applications Around You Week 12: Roadblocks, Pipelines, and Scalability  Datasets  Healthcare / Medicine / Biotech Realm  Pfizer Vaccine Tweets COVID-19 Open Research Dataset Challenge (CORD-19) Novel Corona Virus 2019 Dataset Heart Disease UCI Chest X-Ray Images (Pneumonia)   Miscellaneous  Python  Dataquest: Python for Data Science Fundamentals Learn Python by Nina Zakharenko Intro to Python for Data Science | Datacamp  TED Talks "
+},
+{
+	"uri": "https://datascience4biotech.com/homework/week01/",
+	"title": "Week 1",
+	"tags": [],
+	"description": "",
+	"content": "Week 1:  Required:  Create a Github account and email us your username (we will add you to our DS4B organization on GitHub) Once you are added to the GitHub DS4B organization, create a new repository (within the organization) for your DS4B coursework. Name it \u0026lt;first name\u0026gt;-\u0026lt;last name\u0026gt;.  Click the “Add a README file” button when initializing the repo. Make the repository private.   Clone the repository on your local machine. In the README.md file, please provide the following info:  Name, Class Year, Major, Hometown, Favorite Song, Favorite Food Choose 1 article from resources under “Reading List \u0026gt; Week 1” and write down 2-3 key takeaways for next class in your README.md.   Push your changes! Email us if you have questions or run into problems! We are happy to help.   Suggested/Just for fun:  Find 1 interesting Kaggle dataset for next week\u0026rsquo;s in class activity. Spend some time on Dataquest. We suggest the Data Scientist in Python track, especially for those new to coding or inexperienced with Python, but they also offer courses in R and SQL.    "
+},
+{
+	"uri": "https://datascience4biotech.com/homework/week02/",
+	"title": "Week 2",
+	"tags": [],
+	"description": "",
+	"content": "Week 2: "
 },
 {
 	"uri": "https://datascience4biotech.com/categories/",

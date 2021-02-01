@@ -7,5 +7,23 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 15 Jan 2021 23:07:09 -0800</lastBuildDate><atom:link href="https://datascience4biotech.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Week 1</title>
+      <link>https://datascience4biotech.com/homework/week01/</link>
+      <pubDate>Fri, 15 Jan 2021 23:07:09 -0800</pubDate>
+      
+      <guid>https://datascience4biotech.com/homework/week01/</guid>
+      <description>Week 1:  Required:  Create a Github account and email us your username (we will add you to our DS4B organization on GitHub) Once you are added to the GitHub DS4B organization, create a new repository (within the organization) for your DS4B coursework. Name it &amp;lt;first name&amp;gt;-&amp;lt;last name&amp;gt;.  Click the “Add a README file” button when initializing the repo. Make the repository private.   Clone the repository on your local machine.</description>
+    </item>
+    
+    <item>
+      <title>Week 2</title>
+      <link>https://datascience4biotech.com/homework/week02/</link>
+      <pubDate>Fri, 15 Jan 2021 23:07:09 -0800</pubDate>
+      
+      <guid>https://datascience4biotech.com/homework/week02/</guid>
+      <description>Week 2: </description>
+    </item>
+    
   </channel>
 </rss>
