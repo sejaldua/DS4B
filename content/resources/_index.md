@@ -40,6 +40,7 @@ pre = "<b></b>"
   - [Heart Disease UCI](https://www.kaggle.com/ronitf/heart-disease-uci)
   - [Chest X-Ray Images (Pneumonia)](https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia)
 - Miscellaneous
+  - [Datasets that you can load with Python](https://towardsdatascience.com/datasets-in-python-425475a20eb1)
 
 #### Python
 
@@ -48,4 +49,14 @@ pre = "<b></b>"
 - [Intro to Python for Data Science | Datacamp](https://campus.datacamp.com/courses/intro-to-python-for-data-science/chapter-1-python-basics?ex=1)
 
 #### TED Talks
+
+- [The beauty of data visualization | David McCandless](https://www.youtube.com/watch?v=5Zg-C8AAIGg&t=11s)
+
+#### Cool & Relevant Companies
+- Illumina
+- Novo Nordisk 
+- Corti AI
+- Benevolent AI
+- Reverie Labs
+- Buoy Health
 
