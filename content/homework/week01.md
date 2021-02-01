@@ -6,7 +6,7 @@ chapter = true
 pre = "<b></b>"
 +++
 
-#### Week 1:
+#### Week 1: Introduction to the Course
 - **Required:** 
   - Create a Github account and email us your username (we will add you to our DS4B organization on GitHub)
   - Once you are added to the GitHub DS4B organization, create a [new repository]((https://docs.github.com/en/github/getting-started-with-github/create-a-repo)) (within the organization) for your DS4B coursework. Name it **\<first name\>-\<last name\>**.
