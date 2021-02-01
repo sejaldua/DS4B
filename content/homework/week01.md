@@ -17,7 +17,6 @@ pre = "<b></b>"
   	- Name, Class Year, Major, Hometown, Favorite Song, Favorite Food
   	- Choose 1 article from resources under “Reading List > Week 1” and write down 2-3 key takeaways for next class in your `README.md`. 
   - [Push your changes!](https://docs.github.com/en/desktop/contributing-and-collaborating-using-github-desktop/pushing-changes-to-github)
-  - Email us if you have questions or run into problems! We are happy to help. 
 - **Suggested/Just for fun:** 
   - Find 1 interesting Kaggle dataset for next week's in class activity.
   - Spend some time on Dataquest. We suggest the Data Scientist in Python track, especially for those new to coding or inexperienced with Python, but they also offer courses in R and SQL.
