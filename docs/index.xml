@@ -7,42 +7,5 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 15 Jan 2021 23:07:09 -0800</lastBuildDate><atom:link href="https://datascience4biotech.com/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>About Us</title>
-      <link>https://datascience4biotech.com/aboutus/_index-2/</link>
-      <pubDate>Fri, 15 Jan 2021 23:07:09 -0800</pubDate>
-      
-      <guid>https://datascience4biotech.com/aboutus/_index-2/</guid>
-      <description>About Us    Sook-Hee Evans Sejal Dua         Sook-Hee Evans is a senior at Tufts University majoring in Data Science and minoring in Engineering Management. She previously interned at Amazon Robotics on the Human-Computer Interaction team, where she built a tool used to find errors in the state machines of robotic workcells, and to help developers visualize the state machine flow. In her free time, Sook-Hee enjoys swimming, cooking, playing Wii with her housemates, and listening to podcasts.</description>
-    </item>
-    
-    <item>
-      <title>Course Overview</title>
-      <link>https://datascience4biotech.com/_index-2/</link>
-      <pubDate>Fri, 15 Jan 2021 23:07:09 -0800</pubDate>
-      
-      <guid>https://datascience4biotech.com/_index-2/</guid>
-      <description>Welcome to Data Science for Biotech!         How can data be used to drive forward progress in the field of biotechnology or, more generally, healthcare? Who is leading the way in the biotech industry? Can, and will, data science help find the cure for cancer? In this course, we invite students of all backgrounds to learn a little bit about a lot. You will have the opportunity to get hands-on experience with data analysis, data visualization, machine learning, and neural networks in order to solve problems that matter.</description>
-    </item>
-    
-    <item>
-      <title>Course Schedule</title>
-      <link>https://datascience4biotech.com/schedule/_index-2/</link>
-      <pubDate>Fri, 15 Jan 2021 23:07:09 -0800</pubDate>
-      
-      <guid>https://datascience4biotech.com/schedule/_index-2/</guid>
-      <description>Course Schedule Unit 1: Data Science Fundamentals  Week 1: Introduction to the Course [February 1, 2021] Week 2: Exploratory Data Analysis [February 8, 2021] Week 3: Data Visualization [February 16, 2021 (fake Monday)]  Guest Speaker: Megan Monroe   Week 4: Neural Networks [February 22, 2021]  Guest Speaker: Soha Hassoun    Unit 2: Breakthroughs in Biotech  Week 5: Imaging &amp;amp; Diagnostics [March 1, 2021]  Guest Speaker: Fiorenzo Omenetto   Week 6: Natural Language Processing for Scientific Research [March 8, 2021] Week 7: Feature Engineering for Drug Discovery [March 15, 2021] Week 8: Genetic Algorithms and Sequencing [March 22, 2021] Week 9: Decision Trees for Drug Development / Discovery [March 29, 2021]  Unit 3: Becoming a Practitioner  Week 10: Data Ethics, Cybersecurity, and Social Justice [April 5, 2021]  Guest Speaker: Ming Chow   Week 11: Finding Applications Around You [April 12, 2021]  Guest Speaker: Andrew Dumit   Week 12: Roadblocks, Pipelines, and Scalability [April 26, 2021] Week 13: Final Class Presentations [May 3, 2021]  </description>
-    </item>
-    
-    <item>
-      <title>Resources</title>
-      <link>https://datascience4biotech.com/resources/_index-2/</link>
-      <pubDate>Fri, 15 Jan 2021 23:07:09 -0800</pubDate>
-      
-      <guid>https://datascience4biotech.com/resources/_index-2/</guid>
-      <description>Resources In-Class Materials  Week 1: Introduction to the Course  Data Science vs. Computer Science Jamboard Biotechnology Jamboard Jupyter Notebook Setup Creating a GitHub Repository Kaggle Datasets Creating a Simple Linear Regression using sklearn    Reading List  Similar to the saying, &amp;ldquo;you are what you eat,&amp;rdquo; in today&amp;rsquo;s world, &amp;ldquo;you are the media you consume.&amp;rdquo; So let&amp;rsquo;s nourish our brains with good food. 🍴🧠
-  Week 1: Introduction to the Course  AI &amp;amp; surgery Computer Vision &amp;amp; Self-Driving Cars OpenAI’s new language generator GPT-3 is shockingly good - and completely mindless   Week 2: Exploratory Data Analysis  An Extensive Step by Step Guide to Exploratory Data Analysis Introduction to Machine Learning   Week 3: Data Visualization  The beauty of data visualization | TED Talk by David McCandless   Week 4: Neural Networks  Convolutional Neural Network Expalained in 7 Real-Life Examples   Week 5: Imaging &amp;amp; Diagnostics Week 6: Natural Language Processing for Scientific Research Week 7: Feature Engineering for Drug Discovery Week 8: Genetic Algorithms and Sequencing Week 9: Decision Trees for Drug Development / Discovery Week 10: Data Ethics, Cybersecurity, and Social Justice  Black-Box Algorithms Shouldn’t Decide Who Gets a Vaccine   Week 11: Finding Applications Around You Week 12: Roadblocks, Pipelines, and Scalability  Datasets  Healthcare / Medicine / Biotech Realm  Pfizer Vaccine Tweets COVID-19 Open Research Dataset Challenge (CORD-19) Novel Corona Virus 2019 Dataset Heart Disease UCI Chest X-Ray Images (Pneumonia)   Miscellaneous  Python  Learn Python by Nina Zakharenko Intro to Python for Data Science | Datacamp  TED Talks </description>
-    </item>
-    
   </channel>
 </rss>
