@@ -7,5 +7,14 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 15 Jan 2021 23:07:09 -0800</lastBuildDate><atom:link href="https://datascience4biotech.com/aboutus/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About Us</title>
+      <link>https://datascience4biotech.com/aboutus/_index-2/</link>
+      <pubDate>Fri, 15 Jan 2021 23:07:09 -0800</pubDate>
+      
+      <guid>https://datascience4biotech.com/aboutus/_index-2/</guid>
+      <description>About Us    Sook-Hee Evans Sejal Dua         Sook-Hee Evans is a senior at Tufts University majoring in Data Science and minoring in Engineering Management. She previously interned at Amazon Robotics on the Human-Computer Interaction team, where she built a tool used to find errors in the state machines of robotic workcells, and to help developers visualize the state machine flow. In her free time, Sook-Hee enjoys swimming, cooking, playing Wii with her housemates, and listening to podcasts.</description>
+    </item>
+    
   </channel>
 </rss>
