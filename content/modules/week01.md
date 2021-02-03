@@ -141,7 +141,7 @@ plt.show()
 ```
 
 - Yayyyy! We did it! 
-- If things did not go so well, download [this](../../demos/week01_diabetes_demo.ipynb) to compare your code against the fully worked out source code.
+- If things did not go so well, compare your code against this [this source code](https://github.com/sejaldua/DS4B/blob/master/demos/week01_diabetes_demo.ipynb).
 - If all went well, you should see something like the following:
 
 ![lin reg viz](../images/linreg.png)
