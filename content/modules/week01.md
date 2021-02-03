@@ -144,7 +144,7 @@ plt.show()
 - If things did not go so well, download [this](./../../demos/week01_diabetes_demo.ipynb) to compare your code against the fully worked out source code.
 - If all went well, you should see something like the following:
 
-![lin reg viz](./../images/linreg.png)
+![lin reg viz](../../images/linreg.png)
 
 Code source: Jaques Grobler  
 License: BSD 3 clause
