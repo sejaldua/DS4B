@@ -8,6 +8,25 @@
     <language>en-us</language>
     <lastBuildDate>Fri, 15 Jan 2021 23:07:09 -0800</lastBuildDate><atom:link href="https://datascience4biotech.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Cool Companies</title>
+      <link>https://datascience4biotech.com/resources/companies/</link>
+      <pubDate>Fri, 15 Jan 2021 23:07:09 -0800</pubDate>
+      
+      <guid>https://datascience4biotech.com/resources/companies/</guid>
+      <description>Cool &amp;amp; Relevant Companies  NOTE: we are not sponsoring these companies in any way, shape, or form. This is just to help and hopefully inspire people to dip their toe into the field.
+  Illumina Benevolent AI Novo Nordisk Corti AI Reverie Labs Buoy Health Siligon Therapeutics  </description>
+    </item>
+    
+    <item>
+      <title>Datasets</title>
+      <link>https://datascience4biotech.com/resources/datasets/</link>
+      <pubDate>Fri, 15 Jan 2021 23:07:09 -0800</pubDate>
+      
+      <guid>https://datascience4biotech.com/resources/datasets/</guid>
+      <description>Datasets  Healthcare / Medicine / Biotech Realm  Pfizer Vaccine Tweets COVID-19 Open Research Dataset Challenge (CORD-19) Novel Corona Virus 2019 Dataset Heart Disease UCI Chest X-Ray Images (Pneumonia) NeurIPS 2020: Data Science for COVID-19 (DS4C)   Miscellaneous  Datasets that you can load with Python 1.88 million US Wildfires Spotify Dataset 1921-2020, 160k+ Tracks 120 years of Olympic History: Athletes and Results Interesting Data to Visualize    </description>
+    </item>
+    
+    <item>
       <title>Week 1</title>
       <link>https://datascience4biotech.com/homework/week01/</link>
       <pubDate>Fri, 15 Jan 2021 23:07:09 -0800</pubDate>
