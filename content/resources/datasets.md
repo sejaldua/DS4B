@@ -21,3 +21,4 @@ pre = "<b></b>"
   - [Spotify Dataset 1921-2020, 160k+ Tracks](https://www.kaggle.com/yamaerenay/spotify-dataset-19212020-160k-tracks)
   - [120 years of Olympic History: Athletes and Results](https://www.kaggle.com/heesoo37/120-years-of-olympic-history-athletes-and-results)
   - [Interesting Data to Visualize](https://www.kaggle.com/alexisbcook/data-for-datavis)
+  - [Plotly Datasets (CSV)](https://github.com/plotly/datasets)
