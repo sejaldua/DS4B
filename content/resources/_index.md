@@ -18,6 +18,7 @@ pre = "<b></b>"
 - Week 2: Exploratory Data Analysis
   - [An Extensive Step by Step Guide to Exploratory Data Analysis](https://towardsdatascience.com/an-extensive-guide-to-exploratory-data-analysis-ddd99a03199e)
   - [Introduction to Machine Learning](https://www.digitalocean.com/community/tutorials/an-introduction-to-machine-learning)
+  - [Healthcare Fraud Detection with Python](https://medium.com/better-programming/healthcare-fraud-detection-with-python-5a7a6738b5b2)
 - Week 3: Data Visualization
   - [The beauty of data visualization | TED Talk by David McCandless](https://youtu.be/5Zg-C8AAIGg)
   - [Interesting Data to Visualize](https://www.kaggle.com/alexisbcook/data-for-datavis)
@@ -38,5 +39,8 @@ pre = "<b></b>"
 - [Dataquest: Python for Data Science Fundamentals](https://app.dataquest.io/course/python-for-data-science-fundamentals)
 - [Learn Python by Nina Zakharenko](https://www.learnpython.dev/01-introduction/)
 - [Intro to Python for Data Science | Datacamp](https://campus.datacamp.com/courses/intro-to-python-for-data-science/chapter-1-python-basics?ex=1)
-
-
+- [Scipy Crash Courses](http://scipy-lectures.org/index.html)
+- Pandas
+  - [Pandas Documentation](https://pandas.pydata.org/pandas-docs/stable/index.html)
+  - [10 Minutes to Pandas](https://pandas.pydata.org/pandas-docs/stable/user_guide/10min.html)
+  - [Pandas Cheatsheet](https://github.com/pandas-dev/pandas/blob/master/doc/cheatsheet/Pandas_Cheat_Sheet.pdf)
