@@ -17,6 +17,7 @@ pre = "<b></b>"
   - [OpenAI’s new language generator GPT-3 is shockingly good - and completely mindless](https://www.technologyreview.com/2020/07/20/1005454/openai-machine-learning-language-generator-gpt-3-nlp/)
 - Week 2: Exploratory Data Analysis
   - [An Extensive Step by Step Guide to Exploratory Data Analysis](https://towardsdatascience.com/an-extensive-guide-to-exploratory-data-analysis-ddd99a03199e)
+  - [EDA Visualization Using Pandas](https://towardsdatascience.com/exploratory-data-analysis-eda-visualization-using-pandas-ca5a04271607)
   - [Introduction to Machine Learning](https://www.digitalocean.com/community/tutorials/an-introduction-to-machine-learning)
   - [Healthcare Fraud Detection with Python](https://medium.com/better-programming/healthcare-fraud-detection-with-python-5a7a6738b5b2)
 - Week 3: Data Visualization
