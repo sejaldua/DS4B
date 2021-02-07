@@ -8,6 +8,25 @@
     <language>en-us</language>
     <lastBuildDate>Fri, 15 Jan 2021 23:07:09 -0800</lastBuildDate><atom:link href="https://datascience4biotech.com/homework/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Homework</title>
+      <link>https://datascience4biotech.com/homework/_index-2/</link>
+      <pubDate>Fri, 15 Jan 2021 23:07:09 -0800</pubDate>
+      
+      <guid>https://datascience4biotech.com/homework/_index-2/</guid>
+      <description>Homework &amp;laquo;&amp;laquo;&amp;laquo;&amp;lt; HEAD &amp;laquo;&amp;laquo;&amp;laquo;&amp;lt; HEAD
+You will get out what you put into this course. Homework is not meant to cause stress or burnout. It is simply used as a time to roam freely as you engage with the material. In order to account for the fact that we are all at various experience levels, homeworks will be progressive in nature. You should aim to tackle the first few items listed on each homework page.</description>
+    </item>
+    
+    <item>
+      <title>Week 1</title>
+      <link>https://datascience4biotech.com/homework/week01-2/</link>
+      <pubDate>Fri, 15 Jan 2021 23:07:09 -0800</pubDate>
+      
+      <guid>https://datascience4biotech.com/homework/week01-2/</guid>
+      <description>Week 1: Introduction to the Course  Required:  Create a Github account and email us your username (we will add you to our DS4B organization on GitHub) Once you are added to the GitHub DS4B organization, create a new repository (within the organization) for your DS4B coursework. Name it &amp;lt;first name&amp;gt;-&amp;lt;last name&amp;gt;.  Click the “Add a README file” button when initializing the repo. Make the repository private.   Clone the repository on your local machine.</description>
+    </item>
+    
+    <item>
       <title>Week 1</title>
       <link>https://datascience4biotech.com/homework/week01/</link>
       <pubDate>Fri, 15 Jan 2021 23:07:09 -0800</pubDate>

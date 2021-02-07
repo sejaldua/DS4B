@@ -8,6 +8,15 @@
     <language>en-us</language>
     <lastBuildDate>Fri, 15 Jan 2021 23:07:09 -0800</lastBuildDate><atom:link href="https://datascience4biotech.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>About Us</title>
+      <link>https://datascience4biotech.com/aboutus/_index-2/</link>
+      <pubDate>Fri, 15 Jan 2021 23:07:09 -0800</pubDate>
+      
+      <guid>https://datascience4biotech.com/aboutus/_index-2/</guid>
+      <description>About Us    Sook-Hee Evans Sejal Dua         Sook-Hee Evans is a senior at Tufts University majoring in Data Science and minoring in Engineering Management. She previously interned at Amazon Robotics on the Human-Computer Interaction team, where she built a tool used to find errors in the state machines of robotic workcells, and to help developers visualize the state machine flow. In her free time, Sook-Hee enjoys swimming, cooking, playing Wii with her housemates, and listening to podcasts.</description>
+    </item>
+    
+    <item>
       <title>Cool Companies</title>
       <link>https://datascience4biotech.com/resources/companies/</link>
       <pubDate>Fri, 15 Jan 2021 23:07:09 -0800</pubDate>
@@ -15,6 +24,15 @@
       <guid>https://datascience4biotech.com/resources/companies/</guid>
       <description>Cool &amp;amp; Relevant Companies  NOTE: we are not sponsoring these companies in any way, shape, or form. This is just to help and hopefully inspire people to dip their toe into the field.
   Illumina Benevolent AI Novo Nordisk Corti AI Reverie Labs Buoy Health Siligon Therapeutics  </description>
+    </item>
+    
+    <item>
+      <title>Course Schedule</title>
+      <link>https://datascience4biotech.com/schedule/_index-2/</link>
+      <pubDate>Fri, 15 Jan 2021 23:07:09 -0800</pubDate>
+      
+      <guid>https://datascience4biotech.com/schedule/_index-2/</guid>
+      <description>Course Schedule Unit 1: Data Science Fundamentals  Week 1: Introduction to the Course [February 1, 2021] Week 2: Exploratory Data Analysis [February 8, 2021] Week 3: Data Visualization [February 16, 2021 (fake Monday)]  Guest Speaker: Megan Monroe   Week 4: Neural Networks [February 22, 2021]  Guest Speaker: Soha Hassoun    Unit 2: Breakthroughs in Biotech  Week 5: Imaging &amp;amp; Diagnostics [March 1, 2021]  Guest Speaker: Fiorenzo Omenetto   Week 6: Natural Language Processing for Scientific Research [March 8, 2021]  Guest Speaker: Nicolai Frost Jacobsen (Corti AI)   Week 7: Feature Engineering for Drug Discovery [March 15, 2021] Week 8: Genetic Algorithms and Sequencing [March 22, 2021] Week 9: Decision Trees for Drug Development / Discovery [March 29, 2021]  Unit 3: Becoming a Practitioner  Week 10: Data Ethics, Cybersecurity, and Social Justice [April 5, 2021]  Guest Speaker: Ming Chow   Week 11: Finding Applications Around You [April 12, 2021]  Guest Speaker: Andrew Dumit (Buoy Health)   Week 12: Roadblocks, Pipelines, and Scalability [April 26, 2021] Week 13: Final Class Presentations [May 3, 2021]  </description>
     </item>
     
     <item>
@@ -27,12 +45,40 @@
     </item>
     
     <item>
+      <title>Homework</title>
+      <link>https://datascience4biotech.com/homework/_index-2/</link>
+      <pubDate>Fri, 15 Jan 2021 23:07:09 -0800</pubDate>
+      
+      <guid>https://datascience4biotech.com/homework/_index-2/</guid>
+      <description>Homework &amp;laquo;&amp;laquo;&amp;laquo;&amp;lt; HEAD &amp;laquo;&amp;laquo;&amp;laquo;&amp;lt; HEAD
+You will get out what you put into this course. Homework is not meant to cause stress or burnout. It is simply used as a time to roam freely as you engage with the material. In order to account for the fact that we are all at various experience levels, homeworks will be progressive in nature. You should aim to tackle the first few items listed on each homework page.</description>
+    </item>
+    
+    <item>
+      <title>Week 1</title>
+      <link>https://datascience4biotech.com/homework/week01-2/</link>
+      <pubDate>Fri, 15 Jan 2021 23:07:09 -0800</pubDate>
+      
+      <guid>https://datascience4biotech.com/homework/week01-2/</guid>
+      <description>Week 1: Introduction to the Course  Required:  Create a Github account and email us your username (we will add you to our DS4B organization on GitHub) Once you are added to the GitHub DS4B organization, create a new repository (within the organization) for your DS4B coursework. Name it &amp;lt;first name&amp;gt;-&amp;lt;last name&amp;gt;.  Click the “Add a README file” button when initializing the repo. Make the repository private.   Clone the repository on your local machine.</description>
+    </item>
+    
+    <item>
       <title>Week 1</title>
       <link>https://datascience4biotech.com/homework/week01/</link>
       <pubDate>Fri, 15 Jan 2021 23:07:09 -0800</pubDate>
       
       <guid>https://datascience4biotech.com/homework/week01/</guid>
       <description>Week 1: Introduction to the Course  Required:  Create a Github account and email us your username (we will add you to our DS4B organization on GitHub) Once you are added to the GitHub DS4B organization, create a new repository (within the organization) for your DS4B coursework. Name it &amp;lt;first name&amp;gt;-&amp;lt;last name&amp;gt;.  Click the “Add a README file” button when initializing the repo. Make the repository private.   Clone the repository on your local machine.</description>
+    </item>
+    
+    <item>
+      <title>Week 1</title>
+      <link>https://datascience4biotech.com/modules/week01-2/</link>
+      <pubDate>Fri, 15 Jan 2021 23:07:09 -0800</pubDate>
+      
+      <guid>https://datascience4biotech.com/modules/week01-2/</guid>
+      <description>Week 1: Introduction to the Course Links  Data Science vs. Computer Science Jamboard Biotechnology Jamboard Jupyter Notebook Setup Creating a GitHub Repository Kaggle Datasets Creating a Simple Linear Regression using sklearn  Jupyter Notebook Installation  OPTION 1: Anaconda &amp;gt; Jupyter Notebooks  $ conda install -c conda-forge notebook  OPTION 2: If you already have Python installed, you can use a software management tool called pip.  $ pip3 install jupyter OR</description>
     </item>
     
     <item>
@@ -59,7 +105,7 @@
       <pubDate>Fri, 15 Jan 2021 23:07:09 -0800</pubDate>
       
       <guid>https://datascience4biotech.com/modules/week02/</guid>
-      <description>Week 2: Exploratory Data Analysis </description>
+      <description>Week 2: Exploratory Data Analysis Links  Life Expectancy Dataset Kaggle Datasets Introduction to Pandas Dataframes  </description>
     </item>
     
   </channel>
