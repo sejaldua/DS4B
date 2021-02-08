@@ -28,13 +28,6 @@
 	"content": "Welcome to Data Science for Biotech!         How can data be used to drive forward progress in the field of biotechnology or, more generally, healthcare? Who is leading the way in the biotech industry? Can, and will, data science help find the cure for cancer? In this course, we invite students of all backgrounds to learn a little bit about a lot. You will have the opportunity to get hands-on experience with data analysis, data visualization, machine learning, and neural networks in order to solve problems that matter. This class will be a fusion: we will provide a highly scaffolded tutorial of powerful data science techniques, and we will also have thought-provoking discussions that build upon the groundbreaking work already happening in the field. This course requires no technical background whatsoever. Join us as we explore the world of biotech through the lens of a data scientist!    "
 },
 {
-	"uri": "https://datascience4biotech.com/schedule/_index-2/",
-	"title": "Course Schedule",
-	"tags": [],
-	"description": "",
-	"content": "Course Schedule Unit 1: Data Science Fundamentals  Week 1: Introduction to the Course [February 1, 2021] Week 2: Exploratory Data Analysis [February 8, 2021] Week 3: Data Visualization [February 16, 2021 (fake Monday)]  Guest Speaker: Megan Monroe   Week 4: Neural Networks [February 22, 2021]  Guest Speaker: Soha Hassoun    Unit 2: Breakthroughs in Biotech  Week 5: Imaging \u0026amp; Diagnostics [March 1, 2021]  Guest Speaker: Fiorenzo Omenetto   Week 6: Natural Language Processing for Scientific Research [March 8, 2021]  Guest Speaker: Nicolai Frost Jacobsen (Corti AI)   Week 7: Feature Engineering for Drug Discovery [March 15, 2021] Week 8: Genetic Algorithms and Sequencing [March 22, 2021] Week 9: Decision Trees for Drug Development / Discovery [March 29, 2021]  Unit 3: Becoming a Practitioner  Week 10: Data Ethics, Cybersecurity, and Social Justice [April 5, 2021]  Guest Speaker: Ming Chow   Week 11: Finding Applications Around You [April 12, 2021]  Guest Speaker: Andrew Dumit (Buoy Health)   Week 12: Roadblocks, Pipelines, and Scalability [April 26, 2021] Week 13: Final Class Presentations [May 3, 2021]  "
-},
-{
 	"uri": "https://datascience4biotech.com/schedule/",
 	"title": "Course Schedule",
 	"tags": [],
