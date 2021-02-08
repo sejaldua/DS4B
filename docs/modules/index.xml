@@ -9,15 +9,6 @@
     <lastBuildDate>Fri, 15 Jan 2021 23:07:09 -0800</lastBuildDate><atom:link href="https://datascience4biotech.com/modules/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Week 1</title>
-      <link>https://datascience4biotech.com/modules/week01-2/</link>
-      <pubDate>Fri, 15 Jan 2021 23:07:09 -0800</pubDate>
-      
-      <guid>https://datascience4biotech.com/modules/week01-2/</guid>
-      <description>Week 1: Introduction to the Course Links  Data Science vs. Computer Science Jamboard Biotechnology Jamboard Jupyter Notebook Setup Creating a GitHub Repository Kaggle Datasets Creating a Simple Linear Regression using sklearn  Jupyter Notebook Installation  OPTION 1: Anaconda &amp;gt; Jupyter Notebooks  $ conda install -c conda-forge notebook  OPTION 2: If you already have Python installed, you can use a software management tool called pip.  $ pip3 install jupyter OR</description>
-    </item>
-    
-    <item>
-      <title>Week 1</title>
       <link>https://datascience4biotech.com/modules/week01/</link>
       <pubDate>Fri, 15 Jan 2021 23:07:09 -0800</pubDate>
       
