@@ -7,14 +7,12 @@ pre = "<b></b>"
 +++
 
 #### Week 2: Exploratory Data Analysis
-
 **Required:** 
   - [Download Tableau software](https://access.tufts.edu/tableau) for next week
   - Do some EDA on a dataset of your choice (from sklearn or Kaggle OR check out https://datascience4biotech.com/resources/datasets/)
     - Add it to Github so we can see!
     - Come up with an initial research question which motivates your exploration of the data.
     - Write 2-3 sentences in your `README.md` about an interesting fact or correlation you discovered.
-  
 **Suggested/Just for fun:** 
   - Spend some more time on Dataquest!
   - Explore other ways of plotting in `sklearn` or `seaborn`
