@@ -9,6 +9,7 @@ pre = "<b></b>"
 ## Week 2: Exploratory Data Analysis
 
 #### Links
+  - [Class Slides](https://docs.google.com/presentation/d/1MdOeD42SxgyDyQxmmKB4wEqMegJocd4gEQTE44qMYVk/edit?usp=sharing)
   - [Life Expectancy Dataset](https://github.com/DS4B/Class-Files/blob/main/Life%20Expectancy%20Data.csv)
   - [Kaggle Datasets](https://www.kaggle.com/datasets)
   - [Introduction to Pandas Dataframes](https://www.sharpsightlabs.com/blog/pandas-dataframe/)
