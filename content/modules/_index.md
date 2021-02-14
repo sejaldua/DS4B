@@ -8,4 +8,7 @@ pre = "<b></b>"
 
 ## Modules
 
-Navigate to this page to access in-class materials!
+Our lecture slides and in-class materials are available here. Navigate to the sub-modules to see week-by-week specifics!
+
+- [Week 1 Slides](https://docs.google.com/presentation/d/1B3GLmOKmym7JMYj06Q865fuApQszjTDTWOVYrH0e08E/edit?usp=sharing)
+- [Week 2 Slides](https://docs.google.com/presentation/d/1MdOeD42SxgyDyQxmmKB4wEqMegJocd4gEQTE44qMYVk/edit?usp=sharing)
