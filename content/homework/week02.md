@@ -7,7 +7,7 @@ pre = "<b></b>"
 +++
 
 #### Week 2: Exploratory Data Analysis
-- *Required:** 
+- **Required:** 
   - [Download Tableau Desktop software](https://access.tufts.edu/tableau) for next week
   - Do some EDA on a dataset of your choice (from sklearn or Kaggle OR check out https://datascience4biotech.com/resources/datasets/)
     - Add it to Github so we can see!
