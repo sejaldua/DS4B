@@ -25,5 +25,14 @@
       <description>Week 2: Exploratory Data Analysis  Required:  Download Tableau Desktop software for next week  Get student activation key here   Do some EDA on a dataset of your choice (from sklearn or Kaggle OR check out https://datascience4biotech.com/resources/datasets/)  Add it to Github so we can see! Come up with an initial research question which motivates your exploration of the data. Write 2-3 sentences in your README.md about an interesting fact or correlation you discovered.</description>
     </item>
     
+    <item>
+      <title>Week 3</title>
+      <link>https://datascience4biotech.com/homework/week03/</link>
+      <pubDate>Fri, 15 Jan 2021 23:07:09 -0800</pubDate>
+      
+      <guid>https://datascience4biotech.com/homework/week03/</guid>
+      <description>Week 3: Data Visualization  Required:  Find 1 good and 1 bad data visualization, link them on your Github README!  Briefly explain what makes the good visualization good or bad. Think about intuitiveness, data-ink ratio, color scheme, retinal variables, labeling, interactiveness, etc.. NOTE: links in your README can be created like so [name or description of the visualization](paste url here)   Finish your Tableau visualization.  Take a screenshot of it and upload it to GitHub (if you want to get fancy, you can embed the image in your README).</description>
+    </item>
+    
   </channel>
 </rss>
