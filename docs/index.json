@@ -88,7 +88,14 @@
 	"title": "Week 3",
 	"tags": [],
 	"description": "",
-	"content": "Week 3: Data Visualization  Required:  Find 1 example of a good visualization and 1 example of a bad data visualization  Link them in your Github README!  NOTE: links in your README can be created like so [name or description of the visualization](paste url here)   Also in your README, briefly explain what makes the good visualization good or bad. Think about intuitiveness, data-ink ratio, color scheme, retinal variables, labeling, interactiveness, etc..   Finish your Tableau visualization.  Take a screenshot of it and upload it to GitHub.  NOTE: if you want to get fancy, you can embed the image in your README like so ![caption](paste url where the image lives).   In your README, write 2-3 sentences about the data you studied and anything you learned.     Suggested/Just for fun:  Read about our upcoming guest speaker, Soha Hassoun. Explore her research in computational systems and synthetic biology. Come up with some questions to ask her at the end of her talk next week! Explore MIT\u0026rsquo;s free and open-source course on Deep Learning here.  Train a neural network to make music by working through this notebook!      "
+	"content": "Week 3: Data Visualization  Required:  Find 1 example of a good visualization and 1 example of a bad data visualization  Link them in your Github README!  NOTE: links in your README can be created like so [name or description of the visualization](paste url here)   Also in your README, briefly explain what makes the good visualization good or bad. Think about intuitiveness, data-ink ratio, color scheme, retinal variables, labeling, interactiveness, etc. Check out the following resources if you are struggling to find your example vizzes:  Tableau Viz of the Day information is beautiful     Finish your Tableau visualization.  Take a screenshot of it and upload it to GitHub.  NOTE: if you want to get fancy, you can embed the image in your README like so ![caption](paste url where the image lives).   In your README, write 2-3 sentences about the data you studied and anything you learned. NOTE: if you need help with mapping county-level data in Tableau, see this article.     Suggested/Just for fun:  Read about our upcoming guest speaker, Soha Hassoun. Explore her research in computational systems and synthetic biology. Come up with some questions to ask her at the end of her talk next week! Read How to Choose the Most Appropriate Chart? by Destin Gong, published in Towards Data Science.    "
+},
+{
+	"uri": "https://datascience4biotech.com/homework/week04/",
+	"title": "Week 4",
+	"tags": [],
+	"description": "",
+	"content": "Week 3: Data Visualization   Required:  Suggested/Just for fun:  Explore MIT\u0026rsquo;s free and open-source course on Deep Learning here.  Train a neural network to make music by working through this notebook!      "
 },
 {
 	"uri": "https://datascience4biotech.com/categories/",
