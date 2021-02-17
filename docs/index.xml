@@ -27,6 +27,16 @@
     </item>
     
     <item>
+      <title>Reading List</title>
+      <link>https://datascience4biotech.com/resources/articles/</link>
+      <pubDate>Fri, 15 Jan 2021 23:07:09 -0800</pubDate>
+      
+      <guid>https://datascience4biotech.com/resources/articles/</guid>
+      <description>Reading List  Similar to the saying, &amp;ldquo;you are what you eat,&amp;rdquo; in today&amp;rsquo;s world, &amp;ldquo;you are the media you consume.&amp;rdquo; So let&amp;rsquo;s nourish our brains with good food. 🍴🧠
+  Week 1: Introduction to the Course  AI &amp;amp; surgery Computer Vision &amp;amp; Self-Driving Cars OpenAI’s new language generator GPT-3 is shockingly good - and completely mindless   Week 2: Exploratory Data Analysis  An Extensive Step by Step Guide to Exploratory Data Analysis EDA Visualization Using Pandas Introduction to Machine Learning Healthcare Fraud Detection with Python   Week 3: Data Visualization  The beauty of data visualization | TED Talk by David McCandless Interesting Data to Visualize How to Choose the Most Appropriate Chart?</description>
+    </item>
+    
+    <item>
       <title>Week 1</title>
       <link>https://datascience4biotech.com/homework/week01/</link>
       <pubDate>Fri, 15 Jan 2021 23:07:09 -0800</pubDate>
@@ -68,7 +78,7 @@
       <pubDate>Fri, 15 Jan 2021 23:07:09 -0800</pubDate>
       
       <guid>https://datascience4biotech.com/homework/week03/</guid>
-      <description>Week 3: Data Visualization  Required:  Find 1 example of a good visualization and 1 example of a bad data visualization  Link them in your Github README!  NOTE: links in your README can be created like so [name or description of the visualization](paste url here)   Also in your README, briefly explain what makes the good visualization good or bad. Think about intuitiveness, data-ink ratio, color scheme, retinal variables, labeling, interactiveness, etc.</description>
+      <description>Week 3: Data Visualization  Required:  Find 1 example of a good visualization and 1 example of a bad data visualization  Link them in your Github README!  NOTE: links in your README can be created like so [name of the visualization](paste url here)   Also in your README, briefly explain what makes the good visualization good or bad. Think about intuitiveness, data-ink ratio, color scheme, retinal variables, labeling, interactiveness, etc.</description>
     </item>
     
     <item>

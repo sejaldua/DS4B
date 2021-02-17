@@ -10,7 +10,7 @@ pre = "<b></b>"
 - **Required:** 
   - Find 1 example of a good visualization and 1 example of a bad data visualization
     - Link them in your Github README!
-      - NOTE: links in your README can be created like so `[name or description of the visualization](paste url here)`
+      - NOTE: links in your README can be created like so `[name of the visualization](paste url here)`
     - Also in your README, briefly explain what makes the good visualization good or bad. Think about intuitiveness, data-ink ratio, color scheme, retinal variables, labeling, interactiveness, etc.
     - Check out the following resources if you are struggling to find your example vizzes:
       - [Tableau Viz of the Day](https://public.tableau.com/en-gb/gallery/?tab=viz-of-the-day&type=viz-of-the-day)
