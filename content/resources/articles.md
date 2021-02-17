@@ -21,12 +21,15 @@ pre = "<b></b>"
   - [Healthcare Fraud Detection with Python](https://medium.com/better-programming/healthcare-fraud-detection-with-python-5a7a6738b5b2)
 - Week 3: Data Visualization
   - [The beauty of data visualization | TED Talk by David McCandless](https://youtu.be/5Zg-C8AAIGg)
-  - [Interesting Data to Visualize](https://www.kaggle.com/alexisbcook/data-for-datavis)
   - [How to Choose the Most Appropriate Chart?](https://towardsdatascience.com/which-chart-to-choose-4b21929539eb)
+  - [Interactive Chloropleth map in Python using Folium](https://medium.com/analytics-vidhya/interactive-choropleth-map-in-python-using-folium-4e1479d9e568)
+  - [How to Map Data on the County Level in Tableau](https://medium.com/analytics-vidhya/how-to-map-data-on-the-county-level-in-tableau-9178610cd964)
+  - [Tableau Viz of the Day](https://public.tableau.com/en-gb/gallery/?tab=viz-of-the-day&type=viz-of-the-day)
+  - [information is beautiful](https://informationisbeautiful.net/)
 - Week 4: Neural Networks
   - [Convolutional Neural Network Expalained in 7 Real-Life Examples](https://medium.com/swlh/convolutional-neural-network-expalained-in-7-real-life-examples-6015a64f9d2a)
 - Week 5: Imaging & Diagnostics
-  - [https://towardsdatascience.com/downloading-and-preprocessing-medical-images-in-bulk-520474752e27](Downloading and Preprocessing Medical Images in Bulk)
+  - [Downloading and Preprocessing Medical Images in Bulk](https://towardsdatascience.com/downloading-and-preprocessing-medical-images-in-bulk-520474752e27)
 - Week 6: Natural Language Processing for Scientific Research
 - Week 7: Feature Engineering for Drug Discovery
 - Week 8: Genetic Algorithms and Sequencing
