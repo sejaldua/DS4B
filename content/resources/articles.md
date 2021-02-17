@@ -26,6 +26,7 @@ pre = "<b></b>"
 - Week 4: Neural Networks
   - [Convolutional Neural Network Expalained in 7 Real-Life Examples](https://medium.com/swlh/convolutional-neural-network-expalained-in-7-real-life-examples-6015a64f9d2a)
 - Week 5: Imaging & Diagnostics
+  - [https://towardsdatascience.com/downloading-and-preprocessing-medical-images-in-bulk-520474752e27](Downloading and Preprocessing Medical Images in Bulk)
 - Week 6: Natural Language Processing for Scientific Research
 - Week 7: Feature Engineering for Drug Discovery
 - Week 8: Genetic Algorithms and Sequencing
