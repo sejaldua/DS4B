@@ -1,5 +1,7 @@
 # Week 1: Introduction to the Course
 
+*NOTE: class was held virtually on Zoom due to a snow storm*
+
 ## 1. KEY QUESTIONS
    - What is this course about?
    - Why are we teaching it?
