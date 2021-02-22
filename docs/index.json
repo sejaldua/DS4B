@@ -102,7 +102,7 @@
 	"title": "Week 4",
 	"tags": [],
 	"description": "",
-	"content": "Week 3: Data Visualization  Required:  Choose your own adventure homework!  (A) Spend an hour working through the Dataquest Deep Learning Fundamentals  Add 2-3 sentences to your README about key takeaways related to Neural Networks and Deep Learning. If you get to the project or write some cool code, upload your code to Github!   (B) Make a vanilla neural network that can classify MNIST handwritten digits. Data and open source notebooks are available on Kaggle to get you started. (C) Explore MIT\u0026rsquo;s free and open-source course on Deep Learning here.  Train a neural network to make music by working through this notebook!       Suggested/Just for fun:  Watch this 3Blue1Brown video explaining how Neural Networks work    "
+	"content": "Week 3: Data Visualization  Required:  Choose your own adventure homework!  (A) Spend an hour working through the Dataquest Deep Learning Fundamentals  Add 2-3 sentences to your README about key takeaways related to Neural Networks and Deep Learning. If you get to the project or write some cool code, upload your code to Github!   (B) Make a vanilla neural network that can classify MNIST handwritten digits. Data and open source notebooks are available on Kaggle to get you started.  MIT also offers a scaffolded notebook here. We highly recommend working through this one!   (C) Explore MIT\u0026rsquo;s free and open-source course on Deep Learning here.  Train a neural network to make music by working through this notebook!       Suggested/Just for fun:  Watch this 3Blue1Brown video explaining how Neural Networks work    "
 },
 {
 	"uri": "https://datascience4biotech.com/modules/week04/",
