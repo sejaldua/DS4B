@@ -18,4 +18,5 @@ pre = "<b></b>"
       - Train a neural network to make music by working through [this notebook](https://github.com/aamini/introtodeeplearning/blob/master/lab1/Part2_Music_Generation.ipynb)! 
 - **Suggested/Just for fun:** 
   - Watch this [3Blue1Brown video](https://www.youtube.com/watch?v=aircAruvnKk) explaining how Neural Networks work
+  - Read some articles from the [reading list](https://datascience4biotech.com/resources/articles/)!
 
