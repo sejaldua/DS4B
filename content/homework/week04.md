@@ -6,7 +6,7 @@ chapter = true
 pre = "<b></b>"
 +++
 
-#### Week 3: Data Visualization
+#### Week 4: Neural Networks
 - **Required:** 
   - Choose your own adventure homework!
     - (A) Spend an hour working through the [Dataquest Deep Learning Fundamentals](https://app.dataquest.io/course/deep-learning-fundamentals)
