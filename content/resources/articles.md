@@ -27,6 +27,11 @@ pre = "<b></b>"
   - [Tableau Viz of the Day](https://public.tableau.com/en-gb/gallery/?tab=viz-of-the-day&type=viz-of-the-day)
   - [information is beautiful](https://informationisbeautiful.net/)
 - Week 4: Neural Networks
+  - [How to build your own Neural Network from scratch in Python](https://towardsdatascience.com/how-to-build-your-own-neural-network-from-scratch-in-python-68998a08e4f6)
+  - [How to colorize black & white photos with just 100 lines of neural network code](https://emilwallner.medium.com/colorize-b-w-photos-with-a-100-line-neural-network-53d9b4449f8d)
+  - [The mostly complete chart of Neural Networks, explained](https://towardsdatascience.com/the-mostly-complete-chart-of-neural-networks-explained-3fb6f2367464)
+  - [Simple Image Classification using Convolutional Neural Network](https://becominghuman.ai/building-an-image-classifier-using-deep-learning-in-python-totally-from-a-beginners-perspective-be8dbaf22dd8)
+  - [Neural Networks with Google CoLaboratory](https://towardsdatascience.com/neural-networks-with-google-colaboratory-artificial-intelligence-getting-started-713b5eb07f14)
   - [Convolutional Neural Network Expalained in 7 Real-Life Examples](https://medium.com/swlh/convolutional-neural-network-expalained-in-7-real-life-examples-6015a64f9d2a)
 - Week 5: Imaging & Diagnostics
   - [Downloading and Preprocessing Medical Images in Bulk](https://towardsdatascience.com/downloading-and-preprocessing-medical-images-in-bulk-520474752e27)
