@@ -43,7 +43,7 @@
        - Brainstorm: textual, wearable, geographic, temporal, spatial, qualitative, quantitative, emotive
        - Language-based data types: str, int, float, bool
 
-   - **6:45pm - 10 minutes:** Pandas Crash Course
+   - **6:45pm - 10 minutes:** Pandas Crash Course  
         *Sook-Hee leads, Sejal oversees*
 
    - **6:55pm - 25 minutes**: BREAK  
