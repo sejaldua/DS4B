@@ -13,5 +13,6 @@ pre = "<b></b>"
   - Guest Speaker: Soha Hassoun
     - [Profile](https://engineering.tufts.edu/people/faculty/soha-hassoun)
     - [Research Wesbite](http://www.cs.tufts.edu/~soha/)
+    - [Presentation Slides](https://www.dropbox.com/s/w3mfuex6fa27q47/Hassoun_AI%2C%20now_%20Examples%20from%20Biotechnology.pdf?dl=0)
   - [TensorFlow Playground](http://playground.tensorflow.org/#activation=tanh&batchSize=10&dataset=circle&regDataset=reg-plane&learningRate=0.03&regularizationRate=0&noise=0&networkShape=4,2&seed=0.36318&showTestData=false&discretize=false&percTrainData=50&x=true&y=true&xTimesY=false&xSquared=false&ySquared=false&cosX=false&sinX=false&cosY=false&sinY=false&collectStats=false&problem=classification&initZero=false&hideText=false)
   - [Neural Network Playground](https://nnplayground.com)
