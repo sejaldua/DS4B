@@ -35,11 +35,11 @@
    - **7:30pm - 15 minutes**: Discuss good & bad visualizations  
         *Sook-Hee will lead discussion of bad visualizaitons, Sejal will lead discussion of good visualizations*
 
-   - **7:45pm - 10 minutes**: Tableau Shareout
+   - **7:45pm - 10 minutes**: Tableau Shareout  
         *Sook-Hee clicks, Sejal calls on people*  
 
-   - **8:10pm - 2 minutes**: Verbally explain the homework >> invitation to leave or stay  
-        *Sook-Hee leads, Sejal oversees*
+   - **7:55pm - 15 minutes**: TensorFlow Playground  
+        *Sejal leads, both circulate*  
 
-   - **Remaining time:** Build a Tableau visualization on your own (this is part of the homework)  
-        *Sook-Hee and Sejal both circulate*
+   - **8:10pm - 2 minutes**: Verbally explain the homework >> class dismissed  
+        *Sejal leads, Sook-Hee oversees*
