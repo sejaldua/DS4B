@@ -95,7 +95,16 @@
       <pubDate>Fri, 15 Jan 2021 23:07:09 -0800</pubDate>
       
       <guid>https://datascience4biotech.com/modules/week04/</guid>
-      <description>Week 3: Data Visualization Links  Class Slides Guest Speaker: Soha Hassoun  Profile Research Wesbite Slides   TensorFlow Playground Neural Network Playground  </description>
+      <description>Week 4: Neural Networks Links  Class Slides Guest Speaker: Soha Hassoun  Profile Research Wesbite Slides   TensorFlow Playground Neural Network Playground  </description>
+    </item>
+    
+    <item>
+      <title>Week 5</title>
+      <link>https://datascience4biotech.com/modules/week05/</link>
+      <pubDate>Fri, 15 Jan 2021 23:07:09 -0800</pubDate>
+      
+      <guid>https://datascience4biotech.com/modules/week05/</guid>
+      <description>Week 5: Imaging and Diagnostics Links  Class Slides Guest Speaker: Fiorenzo Omenetto  Profile   Digit Recognition with Neural Networks Playground Eyes of Watson: IBM Research Bringing AI to Radiology Watson Visual Recognition  </description>
     </item>
     
   </channel>
