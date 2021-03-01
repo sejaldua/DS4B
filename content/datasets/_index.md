@@ -15,6 +15,8 @@ pre = "<b></b>"
   - [Heart Disease UCI](https://www.kaggle.com/ronitf/heart-disease-uci)
   - [Chest X-Ray Images (Pneumonia)](https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia)
   - [NeurIPS 2020: Data Science for COVID-19 (DS4C)](https://www.kaggle.com/kimjihoo/coronavirusdataset)
+  - [Cancer Imaging Archive](https://www.cancerimagingarchive.net/collections/)
+  - [Blood Cells Detection](https://www.tensorflow.org/datasets/catalog/bccd)
 - Miscellaneous
   - [Datasets that you can load with Python](https://towardsdatascience.com/datasets-in-python-425475a20eb1)
   - [5 real world datasets for honing your EDA skills](https://towardsdatascience.com/5-real-world-datasets-for-exploratory-data-analysis-21b7cc5afe7e)

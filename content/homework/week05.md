@@ -15,5 +15,5 @@ pre = "<b></b>"
   - Do some background research on [Corti AI](https://www.corti.ai/) in preparation for our guest speaker (Nicolai Frost Jacobsen) next week. Come prepared with at least 2 good questions to ask him.
   - Watch [How We’re Teaching Computers to Understand Pictures](https://www.ted.com/talks/fei_fei_li_how_we_re_teaching_computers_to_understand_pictures) and write a few sentences about what you learned in your README.
 - **Suggested/Just for fun:** 
-  - Read some articles from the [reading list](https://datascience4biotech.com/resources/articles/) under the Week 5 section!
+  - Read some articles from the [reading list](https://datascience4biotech.com/articles/) under the Week 5 section!
 

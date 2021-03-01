@@ -8,25 +8,6 @@
     <language>en-us</language>
     <lastBuildDate>Fri, 15 Jan 2021 23:07:09 -0800</lastBuildDate><atom:link href="https://datascience4biotech.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Datasets</title>
-      <link>https://datascience4biotech.com/resources/datasets/</link>
-      <pubDate>Fri, 15 Jan 2021 23:07:09 -0800</pubDate>
-      
-      <guid>https://datascience4biotech.com/resources/datasets/</guid>
-      <description>Datasets  Healthcare / Medicine / Biotech Realm  Pfizer Vaccine Tweets COVID-19 Open Research Dataset Challenge (CORD-19) Novel Corona Virus 2019 Dataset Heart Disease UCI Chest X-Ray Images (Pneumonia) NeurIPS 2020: Data Science for COVID-19 (DS4C)   Miscellaneous  Datasets that you can load with Python 5 real world datasets for honing your EDA skills 1.88 million US Wildfires Spotify Dataset 1921-2020, 160k+ Tracks 120 years of Olympic History: Athletes and Results Interesting Data to Visualize Plotly Datasets (CSV)    </description>
-    </item>
-    
-    <item>
-      <title>Reading List</title>
-      <link>https://datascience4biotech.com/resources/articles/</link>
-      <pubDate>Fri, 15 Jan 2021 23:07:09 -0800</pubDate>
-      
-      <guid>https://datascience4biotech.com/resources/articles/</guid>
-      <description>Reading List  Similar to the saying, &amp;ldquo;you are what you eat,&amp;rdquo; in today&amp;rsquo;s world, &amp;ldquo;you are the media you consume.&amp;rdquo; So let&amp;rsquo;s nourish our brains with good food. 🍴🧠
-  Week 1: Introduction to the Course  AI &amp;amp; surgery Computer Vision &amp;amp; Self-Driving Cars OpenAI’s new language generator GPT-3 is shockingly good - and completely mindless   Week 2: Exploratory Data Analysis  An Extensive Step by Step Guide to Exploratory Data Analysis EDA Visualization Using Pandas Introduction to Machine Learning Healthcare Fraud Detection with Python Semi-automated Exploratory Data Analysis in Python   Week 3: Data Visualization  The beauty of data visualization | TED Talk by David McCandless How to Choose the Most Appropriate Chart?</description>
-    </item>
-    
-    <item>
       <title>Week 1</title>
       <link>https://datascience4biotech.com/homework/week01/</link>
       <pubDate>Fri, 15 Jan 2021 23:07:09 -0800</pubDate>
