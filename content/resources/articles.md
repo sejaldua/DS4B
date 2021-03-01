@@ -36,6 +36,8 @@ pre = "<b></b>"
   - [Building Neural Networks from Scratch with Python Code and Math in detail](https://pub.towardsai.net/building-neural-networks-from-scratch-with-python-code-and-math-in-detail-i-536fae5d7bbf)
 - Week 5: Imaging & Diagnostics
   - [Downloading and Preprocessing Medical Images in Bulk](https://towardsdatascience.com/downloading-and-preprocessing-medical-images-in-bulk-520474752e27)
+  - [Convolutional Neural Network for Image Processing Using Keras](https://towardsdatascience.com/convolution-neural-network-for-image-processing-using-keras-dc3429056306)
+  - [The most intuitive and easiest guide for CNNs](https://towardsdatascience.com/the-most-intuitive-and-easiest-guide-for-convolutional-neural-network-3607be47480)
 - Week 6: Natural Language Processing for Scientific Research
 - Week 7: Feature Engineering for Drug Discovery
 - Week 8: Genetic Algorithms and Sequencing

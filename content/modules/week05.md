@@ -15,3 +15,10 @@ pre = "<b></b>"
   - [Digit Recognition with Neural Networks Playground](https://www.cs.ryerson.ca/~aharley/vis/conv/)
   - [Eyes of Watson: IBM Research Bringing AI to Radiology](https://www.itnonline.com/videos/video-examples-artificial-intelligence-medical-imaging-diagnostics)
   - [Watson Visual Recognition](https://visual-recognition-code-pattern.ng.bluemix.net)
+
+#### Imaging Datasets
+
+- [`binarized_mnist`: Handwritten Digits](https://www.tensorflow.org/datasets/catalog/binarized_mnist)
+- [`celeb_a`: CelebFaces Attributes Dataset](https://www.tensorflow.org/datasets/catalog/celeb_a)
+- [`aflw2k3d`: 3D Facial Landmarks](https://www.tensorflow.org/datasets/catalog/aflw2k3d)
+- [`coil100`: 7200 Color Images of 100 Objects](https://www.tensorflow.org/datasets/catalog/coil100)

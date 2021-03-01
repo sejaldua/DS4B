@@ -16,5 +16,4 @@ pre = "<b></b>"
     - [EventFlow](https://hcil.umd.edu/eventflow/)
   - [New York Times covid-19-data](https://github.com/nytimes/covid-19-data)
 
-#### Data Visualization Concepts & Quotes
-
+#### Highlights
