@@ -39,7 +39,7 @@ pre = "<b></b>"
   - [Convolutional Neural Network for Image Processing Using Keras](https://towardsdatascience.com/convolution-neural-network-for-image-processing-using-keras-dc3429056306)
   - [The most intuitive and easiest guide for CNNs](https://towardsdatascience.com/the-most-intuitive-and-easiest-guide-for-convolutional-neural-network-3607be47480)
 - Week 6: Natural Language Processing for Scientific Research
-- Week 7: Feature Engineering for Drug Discovery
+- Week 7: Computer Vision and Feature Engineering
 - Week 8: Genetic Algorithms and Sequencing
 - Week 9: Decision Trees for Drug Development / Discovery
 - Week 10: Data Ethics, Cybersecurity, and Social Justice

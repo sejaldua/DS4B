@@ -21,7 +21,7 @@ pre = "<b></b>"
   - **Guest Speaker:** [Fiorenzo Omenetto](https://engineering.tufts.edu/people/faculty/fiorenzo-omenetto)
 - Week 6: Natural Language Processing for Scientific Research [March 8, 2021]
   - **Guest Speaker:** Nicolai Frost Jacobsen [(Corti AI)](https://www.linkedin.com/company/corti/)
-- Week 7: Feature Engineering for Drug Discovery [March 15, 2021]
+- Week 7: Computer Vision & Feature Engineering [March 15, 2021]
 - Week 8: Genetic Algorithms and Sequencing [March 22, 2021]
 - Week 9: Decision Trees for Drug Development / Discovery [March 29, 2021]
 

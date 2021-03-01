@@ -100,11 +100,20 @@
     
     <item>
       <title>Week 5</title>
+      <link>https://datascience4biotech.com/homework/week05/</link>
+      <pubDate>Fri, 15 Jan 2021 23:07:09 -0800</pubDate>
+      
+      <guid>https://datascience4biotech.com/homework/week05/</guid>
+      <description>Week 5: Imaging &amp;amp; Diagnostics  Required:  Do a critical reading of one of the following articles related to convolutional neural networks and/or medical diagnostics. Write down one thing you learned that you did not know before, one thing you feel optimistic about after having read the article, and one limitation of the proposed technology. You can pick any article you want, but here are some suggestions if you need a place to start:  CNN-based diagnosis of appendicitis Pneumonia detection in chest X-ray images using convolutional neural networks and transfer learning     Suggested/Just for fun:  Watch this 3Blue1Brown video explaining how Neural Networks work Read some articles from the reading list under the Week 5 section!</description>
+    </item>
+    
+    <item>
+      <title>Week 5</title>
       <link>https://datascience4biotech.com/modules/week05/</link>
       <pubDate>Fri, 15 Jan 2021 23:07:09 -0800</pubDate>
       
       <guid>https://datascience4biotech.com/modules/week05/</guid>
-      <description>Week 5: Imaging and Diagnostics Links  Class Slides Guest Speaker: Fiorenzo Omenetto  Profile   Digit Recognition with Neural Networks Playground Eyes of Watson: IBM Research Bringing AI to Radiology Watson Visual Recognition  Imaging Datasets  binarized_mnist: Handwritten Digits bccd: Blood Cells Detection celeb_a: CelebFaces Attributes Dataset aflw2k3d: 3D Facial Landmarks coil100: 7200 Color Images of 100 Objects  </description>
+      <description>Week 5: Imaging and Diagnostics Links  Class Slides Guest Speaker: Fiorenzo Omenetto  Profile   Digit Recognition with Neural Networks Playground Eyes of Watson: IBM Research Bringing AI to Radiology Watson Visual Recognition  Playgrounds  2D Visualization of a CNN 3D Visualization of a CNN ConvNet Playground: Image Similarity Search  Info and FAQ   CNN Explainer  Demo Video    Imaging Datasets  binarized_mnist: Handwritten Digits bccd: Blood Cells Detection celeb_a: CelebFaces Attributes Dataset aflw2k3d: 3D Facial Landmarks coil100: 7200 Color Images of 100 Objects  </description>
     </item>
     
   </channel>

@@ -16,6 +16,14 @@ pre = "<b></b>"
   - [Eyes of Watson: IBM Research Bringing AI to Radiology](https://www.itnonline.com/videos/video-examples-artificial-intelligence-medical-imaging-diagnostics)
   - [Watson Visual Recognition](https://visual-recognition-code-pattern.ng.bluemix.net)
 
+#### Playgrounds
+- [2D Visualization of a CNN](https://www.cs.ryerson.ca/~aharley/vis/conv/flat.html)
+- [3D Visualization of a CNN](https://www.cs.ryerson.ca/~aharley/vis/conv/)
+- [ConvNet Playground: Image Similarity Search](https://convnetplayground.fastforwardlabs.com/#/)
+  - [Info and FAQ](https://convnetplayground.fastforwardlabs.com/#/faq)
+- [CNN Explainer](https://poloclub.github.io/cnn-explainer/)
+  - [Demo Video](https://www.youtube.com/watch?v=HnWIHWFbuUQ&feature=youtu.be)
+
 #### Imaging Datasets
 
 - [`binarized_mnist`: Handwritten Digits](https://www.tensorflow.org/datasets/catalog/binarized_mnist)

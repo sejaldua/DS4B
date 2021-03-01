@@ -43,5 +43,14 @@
       <description>Week 4: Neural Networks  Required:  Choose your own adventure homework!  (A) Spend an hour working through the Dataquest Deep Learning Fundamentals  Add 2-3 sentences to your README about key takeaways related to Neural Networks and Deep Learning. If you get to the project or write some cool code, upload your code to Github!   (B) Make a vanilla neural network that can classify MNIST handwritten digits.</description>
     </item>
     
+    <item>
+      <title>Week 5</title>
+      <link>https://datascience4biotech.com/homework/week05/</link>
+      <pubDate>Fri, 15 Jan 2021 23:07:09 -0800</pubDate>
+      
+      <guid>https://datascience4biotech.com/homework/week05/</guid>
+      <description>Week 5: Imaging &amp;amp; Diagnostics  Required:  Do a critical reading of one of the following articles related to convolutional neural networks and/or medical diagnostics. Write down one thing you learned that you did not know before, one thing you feel optimistic about after having read the article, and one limitation of the proposed technology. You can pick any article you want, but here are some suggestions if you need a place to start:  CNN-based diagnosis of appendicitis Pneumonia detection in chest X-ray images using convolutional neural networks and transfer learning     Suggested/Just for fun:  Watch this 3Blue1Brown video explaining how Neural Networks work Read some articles from the reading list under the Week 5 section!</description>
+    </item>
+    
   </channel>
 </rss>
