@@ -34,6 +34,7 @@ pre = "<b></b>"
   - [Neural Networks with Google CoLaboratory](https://towardsdatascience.com/neural-networks-with-google-colaboratory-artificial-intelligence-getting-started-713b5eb07f14)
   - [Convolutional Neural Network Expalained in 7 Real-Life Examples](https://medium.com/swlh/convolutional-neural-network-expalained-in-7-real-life-examples-6015a64f9d2a)
   - [Building Neural Networks from Scratch with Python Code and Math in detail](https://pub.towardsai.net/building-neural-networks-from-scratch-with-python-code-and-math-in-detail-i-536fae5d7bbf)
+  - [How to train Neural Networks for Image Classification (Part 1)](https://sandy-lee.medium.com/how-to-train-neural-networks-for-image-classification-part-1-21327fe1cc1)
 - Week 5: Imaging & Diagnostics
   - [Downloading and Preprocessing Medical Images in Bulk](https://towardsdatascience.com/downloading-and-preprocessing-medical-images-in-bulk-520474752e27)
   - [Convolutional Neural Network for Image Processing Using Keras](https://towardsdatascience.com/convolution-neural-network-for-image-processing-using-keras-dc3429056306)
