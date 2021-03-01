@@ -12,7 +12,7 @@ pre = "<b></b>"
     - [CNN-based diagnosis of appendicitis](https://www.nature.com/articles/s41598-020-66674-7.pdf)
     - [Pneumonia detection in chest X-ray images using convolutional neural networks and transfer learning](https://www.sciencedirect.com/science/article/pii/S0263224120305844)
     - [Plant Disease Detection using Convolutional Neural Network](https://towardsdatascience.com/plant-ai-plant-disease-detection-using-convolutional-neural-network-9b58a96f2289)
-  - Do some background research on our guest speaker, Nicolai Frost Jacobsen and Corti AI. Come prepared with at least 2 good questions to ask him.
+  - Do some background research on [Corti AI](https://www.corti.ai/) in preparation for our guest speaker (Nicolai Frost Jacobsen) next week. Come prepared with at least 2 good questions to ask him.
 - **Suggested/Just for fun:** 
   - Read some articles from the [reading list](https://datascience4biotech.com/resources/articles/) under the Week 5 section!
 
