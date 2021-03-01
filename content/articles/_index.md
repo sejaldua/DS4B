@@ -38,7 +38,6 @@ pre = "<b></b>"
   - [How to train Neural Networks for Image Classification (Part 1)](https://sandy-lee.medium.com/how-to-train-neural-networks-for-image-classification-part-1-21327fe1cc1)
 - Week 5: Imaging & Diagnostics
   - [New smart fabrics with bioactive inks monitor body and environment by changing color](https://now.tufts.edu/news-releases/new-smart-fabrics-bioactive-inks-monitor-body-and-environment-changing-color)
-    - [Video](https://youtu.be/DM8JzVIN5Vo)
   - [Downloading and Preprocessing Medical Images in Bulk](https://towardsdatascience.com/downloading-and-preprocessing-medical-images-in-bulk-520474752e27)
   - [Convolutional Neural Network for Image Processing Using Keras](https://towardsdatascience.com/convolution-neural-network-for-image-processing-using-keras-dc3429056306)
   - [The most intuitive and easiest guide for CNNs](https://towardsdatascience.com/the-most-intuitive-and-easiest-guide-for-convolutional-neural-network-3607be47480)
