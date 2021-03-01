@@ -21,3 +21,5 @@ pre = "<b></b>"
 - What's missing from the data and how do you deal with it?
 - Where are the outliers adn why should you care about them?
 - How can you add, change, or remove features to get more out of your data?
+
+![EDA cheatsheet](./images/../../images/eda.png)

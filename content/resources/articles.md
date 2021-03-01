@@ -19,6 +19,7 @@ pre = "<b></b>"
   - [EDA Visualization Using Pandas](https://towardsdatascience.com/exploratory-data-analysis-eda-visualization-using-pandas-ca5a04271607)
   - [Introduction to Machine Learning](https://www.digitalocean.com/community/tutorials/an-introduction-to-machine-learning)
   - [Healthcare Fraud Detection with Python](https://medium.com/better-programming/healthcare-fraud-detection-with-python-5a7a6738b5b2)
+  - [Semi-automated Exploratory Data Analysis in Python](https://towardsdatascience.com/semi-automated-exploratory-data-analysis-eda-in-python-7f96042c9809)
 - Week 3: Data Visualization
   - [The beauty of data visualization | TED Talk by David McCandless](https://youtu.be/5Zg-C8AAIGg)
   - [How to Choose the Most Appropriate Chart?](https://towardsdatascience.com/which-chart-to-choose-4b21929539eb)
@@ -41,10 +42,12 @@ pre = "<b></b>"
   - [Downloading and Preprocessing Medical Images in Bulk](https://towardsdatascience.com/downloading-and-preprocessing-medical-images-in-bulk-520474752e27)
   - [Convolutional Neural Network for Image Processing Using Keras](https://towardsdatascience.com/convolution-neural-network-for-image-processing-using-keras-dc3429056306)
   - [The most intuitive and easiest guide for CNNs](https://towardsdatascience.com/the-most-intuitive-and-easiest-guide-for-convolutional-neural-network-3607be47480)
-- Week 6: Natural Language Processing for Scientific Research
-- Week 7: Computer Vision and Feature Engineering
+- Week 6: Neural Networks (*continued*) & Computer Vision
+  - [Simple Image Classification using Convolutional Neural Network](https://becominghuman.ai/building-an-image-classifier-using-deep-learning-in-python-totally-from-a-beginners-perspective-be8dbaf22dd8)
+- Week 7: Natural Language Processing for Scientific Research
 - Week 8: Genetic Algorithms and Sequencing
-- Week 9: Decision Trees for Drug Development / Discovery
+  - [How to Sequence a Human Genome](https://towardsdatascience.com/how-to-sequence-a-human-genome-a-bioinformatics-approach-ae64481cec7b)
+- Week 9: Feature Engineering & Decision Trees for Drug Development
 - Week 10: Data Ethics, Cybersecurity, and Social Justice
   - [Black-Box Algorithms Shouldn’t Decide Who Gets a Vaccine](https://onezero.medium.com/black-box-algorithms-shouldnt-decide-who-gets-a-vaccine-492be4bbae3c)
 - Week 11: Finding Applications Around You
