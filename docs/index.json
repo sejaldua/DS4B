@@ -123,7 +123,7 @@
 	"title": "Week 5",
 	"tags": [],
 	"description": "",
-	"content": "Week 5: Imaging and Diagnostics Links  Class Slides Guest Speaker: Fiorenzo Omenetto  Profile Lab Website TED Talk Recent \u0026amp; Relevant Work  New smart fabrics with bioactive inks monitor body and environment by changing color  Video)       Digit Recognition with Neural Networks Playground Eyes of Watson: IBM Research Bringing AI to Radiology Watson Visual Recognition  Playgrounds  2D Visualization of a CNN 3D Visualization of a CNN ConvNet Playground: Image Similarity Search  Info and FAQ   CNN Explainer  Demo Video    Imaging Datasets  binarized_mnist: Handwritten Digits bccd: Blood Cells Detection celeb_a: CelebFaces Attributes Dataset aflw2k3d: 3D Facial Landmarks coil100: 7200 Color Images of 100 Objects  "
+	"content": "Week 5: Imaging and Diagnostics Links  Class Slides Guest Speaker: Fiorenzo Omenetto  Profile Lab Website TED Talk Recent \u0026amp; Relevant Research  Article Video     Digit Recognition with Neural Networks Playground Eyes of Watson: IBM Research Bringing AI to Radiology Watson Visual Recognition  Playgrounds  2D Visualization of a CNN 3D Visualization of a CNN ConvNet Playground: Image Similarity Search  Info and FAQ   CNN Explainer  Demo Video    Imaging Datasets  binarized_mnist: Handwritten Digits bccd: Blood Cells Detection celeb_a: CelebFaces Attributes Dataset aflw2k3d: 3D Facial Landmarks coil100: 7200 Color Images of 100 Objects  "
 },
 {
 	"uri": "https://datascience4biotech.com/categories/",
