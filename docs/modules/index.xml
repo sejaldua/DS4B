@@ -40,7 +40,7 @@
       <pubDate>Fri, 15 Jan 2021 23:07:09 -0800</pubDate>
       
       <guid>https://datascience4biotech.com/modules/week04/</guid>
-      <description>Week 4: Neural Networks Links  Class Slides Guest Speaker: Soha Hassoun  Profile Research Wesbite Slides   TensorFlow Playground Neural Network Playground  </description>
+      <description>Week 4: Neural Networks Links  Class Slides Guest Speaker: Soha Hassoun  Profile Lab Website Slides   TensorFlow Playground Neural Network Playground  </description>
     </item>
     
     <item>
@@ -49,7 +49,7 @@
       <pubDate>Fri, 15 Jan 2021 23:07:09 -0800</pubDate>
       
       <guid>https://datascience4biotech.com/modules/week05/</guid>
-      <description>Week 5: Imaging and Diagnostics Links  Class Slides Guest Speaker: Fiorenzo Omenetto  Profile   Digit Recognition with Neural Networks Playground Eyes of Watson: IBM Research Bringing AI to Radiology Watson Visual Recognition  Playgrounds  2D Visualization of a CNN 3D Visualization of a CNN ConvNet Playground: Image Similarity Search  Info and FAQ   CNN Explainer  Demo Video    Imaging Datasets  binarized_mnist: Handwritten Digits bccd: Blood Cells Detection celeb_a: CelebFaces Attributes Dataset aflw2k3d: 3D Facial Landmarks coil100: 7200 Color Images of 100 Objects  </description>
+      <description>Week 5: Imaging and Diagnostics Links  Class Slides Guest Speaker: Fiorenzo Omenetto  Profile Lab Website TED Talk Recent &amp;amp; Relevant Work  New smart fabrics with bioactive inks monitor body and environment by changing color  Video)       Digit Recognition with Neural Networks Playground Eyes of Watson: IBM Research Bringing AI to Radiology Watson Visual Recognition  Playgrounds  2D Visualization of a CNN 3D Visualization of a CNN ConvNet Playground: Image Similarity Search  Info and FAQ   CNN Explainer  Demo Video    Imaging Datasets  binarized_mnist: Handwritten Digits bccd: Blood Cells Detection celeb_a: CelebFaces Attributes Dataset aflw2k3d: 3D Facial Landmarks coil100: 7200 Color Images of 100 Objects  </description>
     </item>
     
   </channel>

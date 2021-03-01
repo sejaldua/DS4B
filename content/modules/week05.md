@@ -12,6 +12,11 @@ pre = "<b></b>"
   - [Class Slides](https://docs.google.com/presentation/d/1J3ewzfLj4fSwLlzeQ1rWueXIY4han0fY3ZmllgSX8s0/edit?usp=sharing)
   - Guest Speaker: Fiorenzo Omenetto
     - [Profile](https://engineering.tufts.edu/bme/people/faculty/fiorenzo-omenetto)
+    - [Lab Website](https://ase.tufts.edu/biomedical/unolab/home.html)
+    - [TED Talk](https://www.ted.com/talks/fiorenzo_omenetto_silk_the_ancient_material_of_the_future?language=en)
+    - Recent & Relevant Work
+      - [New smart fabrics with bioactive inks monitor body and environment by changing color](https://now.tufts.edu/news-releases/new-smart-fabrics-bioactive-inks-monitor-body-and-environment-changing-color)
+        - [Video](https://youtu.be/DM8JzVIN5Vo))
   - [Digit Recognition with Neural Networks Playground](https://www.cs.ryerson.ca/~aharley/vis/conv/)
   - [Eyes of Watson: IBM Research Bringing AI to Radiology](https://www.itnonline.com/videos/video-examples-artificial-intelligence-medical-imaging-diagnostics)
   - [Watson Visual Recognition](https://visual-recognition-code-pattern.ng.bluemix.net)
