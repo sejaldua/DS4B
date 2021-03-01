@@ -22,4 +22,4 @@ pre = "<b></b>"
 - Where are the outliers adn why should you care about them?
 - How can you add, change, or remove features to get more out of your data?
 
-![EDA cheatsheet](./images/../../images/eda.png)
+![EDA cheatsheet](/content/images/eda.png)
