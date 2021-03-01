@@ -39,7 +39,7 @@
 	"title": "Modules",
 	"tags": [],
 	"description": "",
-	"content": "Modules Our lecture slides and in-class materials are available here. Navigate to the sub-modules to see week-by-week specifics!\n Week 1: Introduction to the Course | slides Week 2: Exploratory Data Analysis | slides Week 3: Data Visualization | slides Week 4: Neural Networks | slides  "
+	"content": "Modules Our lecture slides and in-class materials are available here. Navigate to the sub-modules to see week-by-week specifics!\n Week 1: Introduction to the Course | slides Week 2: Exploratory Data Analysis | slides Week 3: Data Visualization | slides Week 4: Neural Networks | slides Week 5: Imaging \u0026amp; Diagnostics  "
 },
 {
 	"uri": "https://datascience4biotech.com/resources/articles/",
@@ -116,7 +116,7 @@
 	"title": "Week 5",
 	"tags": [],
 	"description": "",
-	"content": "Week 5: Imaging and Diagnostics Links  Class Slides Guest Speaker: Fiorenzo Omenetto  Profile   Digit Recognition with Neural Networks Playground Eyes of Watson: IBM Research Bringing AI to Radiology Watson Visual Recognition  Imaging Datasets  binarized_mnist: Handwritten Digits celeb_a: CelebFaces Attributes Dataset aflw2k3d: 3D Facial Landmarks coil100: 7200 Color Images of 100 Objects  "
+	"content": "Week 5: Imaging and Diagnostics Links  Class Slides Guest Speaker: Fiorenzo Omenetto  Profile   Digit Recognition with Neural Networks Playground Eyes of Watson: IBM Research Bringing AI to Radiology Watson Visual Recognition  Imaging Datasets  binarized_mnist: Handwritten Digits bccd: Blood Cells Detection celeb_a: CelebFaces Attributes Dataset aflw2k3d: 3D Facial Landmarks coil100: 7200 Color Images of 100 Objects  "
 },
 {
 	"uri": "https://datascience4biotech.com/categories/",
