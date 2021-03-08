@@ -17,4 +17,6 @@ id = "typeform"
   - [Mid-Semester Feedback Survey](https://sejaldua.typeform.com/to/Lr7HRDeM)
   <!-- - [Demo]() -->
 
+{{< vimeo 521092783 >}}
+
 {{< typeform Lr7HRDeM sejaldua 400px "50%" >}}
