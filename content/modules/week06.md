@@ -20,4 +20,6 @@ id = "typeform"
 
 {{< vimeo 521092783 >}}
 
-{{< typeform Lr7HRDeM sejaldua 400px "50%" >}}
+---
+
+{{< typeform Lr7HRDeM sejaldua 500px "60%" >}}
