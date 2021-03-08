@@ -52,5 +52,14 @@
       <description>Week 5: Imaging &amp;amp; Diagnostics  Required:  Do a critical reading of one of the following articles related to convolutional neural networks and/or medical diagnostics.  Deliverables (things to write in your README):  I learned&amp;hellip; After having read the article, I feel optimistic about&amp;hellip; A limitation of the proposed technology is&amp;hellip;   You can pick any article you want, but here are some suggestions if you need a place to start:  The potential for artificial intelligence in healthcare A new approach for classifying coronavirus COVID-19 based on its manifestation on chest X-rays using texture features and neural networks “Solving” Cancer: The Use of Artificial Neural Networks in Cancer Diagnosis and Treatment Plant Disease Detection using Convolutional Neural Network     Do some background research on Corti AI in preparation for our guest speaker (Nicolai Frost Jacobsen) next week.</description>
     </item>
     
+    <item>
+      <title>Week 6</title>
+      <link>https://datascience4biotech.com/homework/week06/</link>
+      <pubDate>Fri, 15 Jan 2021 23:07:09 -0800</pubDate>
+      
+      <guid>https://datascience4biotech.com/homework/week06/</guid>
+      <description>Deep Learning &amp;amp; Computer Vision  Required:  2-3 paragraph reflection on Nicolai&amp;rsquo;s talk (in README)  Deliverables (things to write in your README):  What is something that you learned? How would you summarize Corti&amp;rsquo;s use of audio-based and text-based models to a friend? Given what you know about the English language (or any other languages), what do you anticipate is most challenging about Natural Language Processing (NLP)? Do you trust deep learning models to process audio input in high stakes contexts (e.</description>
+    </item>
+    
   </channel>
 </rss>
