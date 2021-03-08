@@ -16,4 +16,4 @@ id = "typeform"
   - [Google Cloud Vision Playground](https://cloud.google.com/vision/docs/drag-and-drop)
   <!-- - [Demo]() -->
 
-{{< typeform Lr7HRDeM sejaldua >}}
+{{< typeform Lr7HRDeM sejaldua "50%" >}}
