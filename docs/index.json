@@ -137,7 +137,7 @@
 	"title": "Week 6",
 	"tags": [],
 	"description": "",
-	"content": "Week 6: Deep Learning \u0026amp; Computer Vision Links  Class Slides Guest Lecture by Nicolai Frost Jacobsen (Corti AI) Mid-Semester Feedback Survey Kaggle Dataset DeepFakes Google Cloud Vision Playground        (function(){var qs,js,q,s,d=document,gi=d.getElementById,ce=d.createElement,gt=d.getElementsByTagName,id='typef_orm',b='https://s3-eu-west-1.amazonaws.com/share.typeform.com/';if(!gi.call(d,id)){js=ce.call(d,'script');js.id=id;js.src=b+'widget.js';q=gt.call(d,'script')[0];q.parentNode.insertBefore(js,q)}})()   "
+	"content": "Week 6: Deep Learning \u0026amp; Computer Vision Links  Class Slides Guest Lecture by Nicolai Frost Jacobsen (Corti AI) Mid-Semester Feedback Survey Kaggle Dataset DeepFakes Google Cloud Vision Playground Demo        (function(){var qs,js,q,s,d=document,gi=d.getElementById,ce=d.createElement,gt=d.getElementsByTagName,id='typef_orm',b='https://s3-eu-west-1.amazonaws.com/share.typeform.com/';if(!gi.call(d,id)){js=ce.call(d,'script');js.id=id;js.src=b+'widget.js';q=gt.call(d,'script')[0];q.parentNode.insertBefore(js,q)}})()   "
 },
 {
 	"uri": "https://datascience4biotech.com/categories/",

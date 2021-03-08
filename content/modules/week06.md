@@ -16,7 +16,7 @@ id = "typeform"
   - [Kaggle Dataset](https://www.kaggle.com/ciplab/real-and-fake-face-detection)
   - [DeepFakes](https://www.youtube.com/watch?v=C8FO0P2a3dA)
   - [Google Cloud Vision Playground](https://cloud.google.com/vision/docs/drag-and-drop)
-  <!-- - [Demo]() -->
+  - [Demo](https://colab.research.google.com/drive/1pjBBuOGqWT_EYGbkWAE4GLosycdLE4-Z?usp=sharing)
 
 {{< vimeo 521092783 >}}
 
