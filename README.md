@@ -24,7 +24,7 @@ How can data be used to drive forward progress in the field of biotechnology or,
 
 #### Unit 2: Breakthroughs in Biotech
 - Week 5: Imaging & Diagnostics [March 1, 2021]
-- Week 6: Neural Networks (*continued*) & Computer Vision [March 8, 2021]
+- Week 6: Deep Learning & Computer Vision [March 8, 2021]
 - Week 7: Natural Language Processing for Scientific Research  [March 15, 2021]
 - Week 8: Genetic Algorithms and Sequencing [March 22, 2021]
 - Week 9: Feature Engineering & Decision Trees for Drug Development [March 29, 2021]
