@@ -9,6 +9,7 @@ pre = "<b></b>"
 ## Datasets
 
 - Healthcare / Medicine / Biotech Realm
+  - [15 Open Datasets for HealthCare](https://opendatascience.com/15-open-datasets-for-healthcare/)
   - [Pfizer Vaccine Tweets](https://www.kaggle.com/gpreda/pfizer-vaccine-tweets)
   - [COVID-19 Open Research Dataset Challenge (CORD-19)](https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge)
   - [Novel Corona Virus 2019 Dataset](https://www.kaggle.com/sudalairajkumar/novel-corona-virus-2019-dataset)

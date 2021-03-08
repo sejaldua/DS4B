@@ -41,8 +41,18 @@ pre = "<b></b>"
   - [Downloading and Preprocessing Medical Images in Bulk](https://towardsdatascience.com/downloading-and-preprocessing-medical-images-in-bulk-520474752e27)
   - [Convolutional Neural Network for Image Processing Using Keras](https://towardsdatascience.com/convolution-neural-network-for-image-processing-using-keras-dc3429056306)
   - [The most intuitive and easiest guide for CNNs](https://towardsdatascience.com/the-most-intuitive-and-easiest-guide-for-convolutional-neural-network-3607be47480)
+  - [EDA Ideas for Image Classification](https://towardsdatascience.com/exploratory-data-analysis-ideas-for-image-classification-d3fc6bbfb2d2)
 - Week 6: Neural Networks (*continued*) & Computer Vision
   - [Simple Image Classification using Convolutional Neural Network](https://becominghuman.ai/building-an-image-classifier-using-deep-learning-in-python-totally-from-a-beginners-perspective-be8dbaf22dd8)
+  - [Google Quick Draw](https://quickdraw.withgoogle.com)
+    - [AI Experiments Video](https://www.youtube.com/watch?time_continue=100&v=X8v1GWzZYJ4&feature=emb_title)
+    - [The Data](https://github.com/googlecreativelab/quickdraw-dataset)
+    - [Visualization](https://quickdraw.withgoogle.com/data/purse)
+    - [Analytical Viz](https://pair-code.github.io/facets/quickdraw.html)
+    - [Blog Post](https://research.googleblog.com/2017/08/exploring-and-visualizing-open-global.html)
+    - [Tutorial 1](https://medium.com/tensorflow/train-on-google-colab-and-run-on-the-browser-a-case-study-8a45f9b1474e)
+    - [Tutorial 2](https://github.com/keisukeirie/quickdraw_prediction_model)
+  - [How do you draw a circle?](https://qz.com/994486/the-way-you-draw-circles-says-a-lot-about-you/)
 - Week 7: Natural Language Processing for Scientific Research
 - Week 8: Genetic Algorithms and Sequencing
   - [How to Sequence a Human Genome](https://towardsdatascience.com/how-to-sequence-a-human-genome-a-bioinformatics-approach-ae64481cec7b)
