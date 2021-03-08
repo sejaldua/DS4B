@@ -14,6 +14,7 @@ id = "typeform"
   - [Kaggle Dataset](https://www.kaggle.com/ciplab/real-and-fake-face-detection)
   - [DeepFakes](https://www.youtube.com/watch?v=C8FO0P2a3dA)
   - [Google Cloud Vision Playground](https://cloud.google.com/vision/docs/drag-and-drop)
+  - [Mid-Semester Feedback Survey](https://sejaldua.typeform.com/to/Lr7HRDeM)
   <!-- - [Demo]() -->
 
-{{< typeform Lr7HRDeM sejaldua "50%" >}}
+{{< typeform Lr7HRDeM sejaldua 400px "50%" >}}
