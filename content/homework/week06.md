@@ -30,6 +30,7 @@ pre = "<b></b>"
           - [Tutorial 2](https://github.com/keisukeirie/quickdraw_prediction_model)
   - Fill out mid-semester feedback survey! We will remind you about this before class next week.
 
+
 - **Suggested/Just for fun:** 
   - Watch YouTube videos about DeepFakes
   - Read articles in the Reading List under Week 6
