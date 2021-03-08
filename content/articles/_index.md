@@ -53,6 +53,8 @@ pre = "<b></b>"
     - [Tutorial 1](https://medium.com/tensorflow/train-on-google-colab-and-run-on-the-browser-a-case-study-8a45f9b1474e)
     - [Tutorial 2](https://github.com/keisukeirie/quickdraw_prediction_model)
   - [How do you draw a circle?](https://qz.com/994486/the-way-you-draw-circles-says-a-lot-about-you/)
+  - DeepFakes
+    - [Can Facebook And Google Detect And Stop Deepfakes?](https://www.youtube.com/watch?v=4YpoYvhVmDw)
 - Week 7: Natural Language Processing for Scientific Research
 - Week 8: Genetic Algorithms and Sequencing
   - [How to Sequence a Human Genome](https://towardsdatascience.com/how-to-sequence-a-human-genome-a-bioinformatics-approach-ae64481cec7b)
