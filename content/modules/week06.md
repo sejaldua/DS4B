@@ -11,6 +11,7 @@ id = "typeform"
 
 #### Links
   - [Class Slides](https://docs.google.com/presentation/d/1ygzXLjbZxqpVxqgtJVJq5L2NDqWd6ucRcSdaAipgaAw/edit#slide=id.g35f391192_00)
+  - [Guest Lecture by Nicolai Frost Jacobsen (Corti AI)](https://vimeo.com/521092783)
   - [Kaggle Dataset](https://www.kaggle.com/ciplab/real-and-fake-face-detection)
   - [DeepFakes](https://www.youtube.com/watch?v=C8FO0P2a3dA)
   - [Google Cloud Vision Playground](https://cloud.google.com/vision/docs/drag-and-drop)
