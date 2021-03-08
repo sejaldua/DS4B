@@ -137,7 +137,7 @@
 	"title": "Week 6",
 	"tags": [],
 	"description": "",
-	"content": "Week 6: Deep Learning \u0026amp; Computer Vision Links  Class Slides Guest Speaker: Fiorenzo Omenetto  Profile Lab Website TED Talk Recent \u0026amp; Relevant Research  Article Video     Digit Recognition with Neural Networks Playground Eyes of Watson: IBM Research Bringing AI to Radiology Watson Visual Recognition  Playgrounds  2D Visualization of a CNN 3D Visualization of a CNN ConvNet Playground: Image Similarity Search  Info and FAQ   CNN Explainer  Demo Video    Imaging Datasets  binarized_mnist: Handwritten Digits bccd: Blood Cells Detection celeb_a: CelebFaces Attributes Dataset aflw2k3d: 3D Facial Landmarks coil100: 7200 Color Images of 100 Objects Cancer Imaging Archive  Phantom FDA   COVID-19 Radiology Dataset (Chest X-Ray and CT)  "
+	"content": "Week 6: Deep Learning \u0026amp; Computer Vision Links  Class Slides Kaggle Dataset DeepFakes Demo  "
 },
 {
 	"uri": "https://datascience4biotech.com/categories/",
