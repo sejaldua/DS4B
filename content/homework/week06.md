@@ -17,6 +17,7 @@ pre = "<b></b>"
       - Do you trust deep learning models to process audio input in high stakes contexts (e.g. cases in which the cost of a mistake could be a human life)?
   - Choose one of the following:
     - A: Finish up computer vision demo and showcase it on GitHub via screenshots and/or code
+      - Visit [the Cloud Vision API Quick Start Guide](https://cloud.google.com/vision/docs/setup#sa-create) to create your API keys
       - Also include a 2-3 sentence explanation of what your code does, in plain English
     - B: Do a case study on Google's [Quick, Draw!](https://quickdraw.withgoogle.com) game. This is a relevant and fascinating exploration of how gamifying computer vision / neural networks can lead to potential advances in the AI space! If you choose this route, please document your case study in your README.
       1. Play the [game](https://quickdraw.withgoogle.com), then write down your initial impression. Was it able to guess your drawings correctly? How many seconds did it usually take? How do you think it was able to do that?
