@@ -115,5 +115,14 @@
       <description>Week 6: Deep Learning &amp;amp; Computer Vision Links  Class Slides Guest Lecture by Nicolai Frost Jacobsen (Corti AI) Mid-Semester Feedback Survey Kaggle Dataset DeepFakes Google Cloud Vision Playground Demo        (function(){var qs,js,q,s,d=document,gi=d.getElementById,ce=d.createElement,gt=d.getElementsByTagName,id=&#39;typef_orm&#39;,b=&#39;https://s3-eu-west-1.amazonaws.com/share.typeform.com/&#39;;if(!gi.call(d,id)){js=ce.call(d,&#39;script&#39;);js.id=id;js.src=b+&#39;widget.js&#39;;q=gt.call(d,&#39;script&#39;)[0];q.parentNode.insertBefore(js,q)}})()   </description>
     </item>
     
+    <item>
+      <title>Week 7</title>
+      <link>https://datascience4biotech.com/homework/week07/</link>
+      <pubDate>Fri, 15 Jan 2021 23:07:09 -0800</pubDate>
+      
+      <guid>https://datascience4biotech.com/homework/week07/</guid>
+      <description>Natural Language Processing  Required:  Finish NLP workshop  Deliverables (things to write in your README):  Upload code and any screenshots of interesting graphics/output that you generated Write 2-3 sentences about what you learned about the sentiments and perspectives on the vaccines       Suggested/Just for fun:  Use the Tweepy API to get tweets about J&amp;amp;J and compare sentiments Read articles in the Reading List under Week 7 Data Quest!</description>
+    </item>
+    
   </channel>
 </rss>
