@@ -53,6 +53,7 @@ pre = "<b></b>"
   - [The 7 NLP Techniques That Will Change How You Communicate in the Future](https://link.medium.com/k5BFUvuhDeb)
   - [Introduction to Natural Language Processing for Text](https://towardsdatascience.com/introduction-to-natural-language-processing-for-text-df845750fb63)
   - [Machine Learning, NLP: Text Classification using sklearn, Python, and NLTK](https://link.medium.com/T3wLycFgDeb)
+  - [scispaCy for Bio-medical Named Entity Recognition(NER)](https://medium.com/@maheshdmahi/scispacy-for-bio-medical-named-entity-recognition-ner-63ed548f1df0)
   - [NLP -- Building a Question Answering model](https://link.medium.com/gdTrTxOgDeb)
   - [Automated Keyword Extraction from Articles using NLP](https://link.medium.com/dFa7JSTgDeb)
 - Week 8: Genetic Algorithms and Sequencing

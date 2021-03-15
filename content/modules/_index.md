@@ -15,4 +15,5 @@ Our lecture slides and in-class materials are available here. Navigate to the su
 - [Week 3: Data Visualization](https://datascience4biotech.com/modules/week03/) | [slides](https://docs.google.com/presentation/d/1_Uh95qtVTvW7ptP6-seTcxI9OMMTG_T16nZ7OLu1M00/edit?usp=sharing)
 - [Week 4: Neural Networks](https://datascience4biotech.com/modules/week04/) | [slides](https://docs.google.com/presentation/d/1ZJpxLbsB46wY3ll9Jk8sHNY4GYKoVj6meYpKoie0XCc/edit#slide=id.gc00753aa27_0_1509)
 - [Week 5: Imaging & Diagnostics](https://datascience4biotech.com/modules/week05/) | [slides](https://docs.google.com/presentation/d/1J3ewzfLj4fSwLlzeQ1rWueXIY4han0fY3ZmllgSX8s0/edit?usp=sharing)
-- [Week 6: Deep Learning & Computer Vision](https://datascience4biotech.com/modules/week06/) | [slides](https://docs.google.com/presentation/d/1ygzXLjbZxqpVxqgtJVJq5L2NDqWd6ucRcSdaAipgaAw/edit#slide=id.g35f391192_00)
+- [Week 6: Deep Learning & Computer Vision](https://datascience4biotech.com/modules/week06/) | [slides](https://docs.google.com/presentation/d/1ygzXLjbZxqpVxqgtJVJq5L2NDqWd6ucRcSdaAipgaAw/edit?usp=sharing)
+- [Week 7: Natural Language Processing (NLP)](https://datascience4biotech.com/modules/week07/) | [slides](https://docs.google.com/presentation/d/1mcr2FcN8S5K2yksntsA6WaD0ETICxc-cSzKFf_kNak4/edit?usp=sharing)
