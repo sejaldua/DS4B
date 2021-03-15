@@ -1,4 +1,4 @@
-# Week 4: Neural Networks [February 16, 2021]
+# Week 4: Neural Networks [February 23, 2021]
 
 ## 1. KEY QUESTIONS
    - *Continued from last time:*

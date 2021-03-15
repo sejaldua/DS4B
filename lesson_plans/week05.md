@@ -1,4 +1,4 @@
-# Week 5: Imaging & Diagnostics [February 23, 2021]
+# Week 5: Imaging & Diagnostics [March 1, 2021]
 
 ## 1. KEY QUESTIONS
    - How can neural networks accelerate the field of biotechnology?
