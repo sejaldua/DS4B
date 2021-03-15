@@ -49,6 +49,11 @@ pre = "<b></b>"
   - [How do you draw a circle?](https://qz.com/994486/the-way-you-draw-circles-says-a-lot-about-you/)
   - [Can Facebook And Google Detect And Stop Deepfakes?](https://www.youtube.com/watch?v=4YpoYvhVmDw)
 - Week 7: Natural Language Processing for Scientific Research
+  - [Your Guide to Natural Language Processing (NLP)](https://link.medium.com/4nFDxZahDeb)
+  - [The 7 NLP Techniques That Will Change How You Communicate in the Future](https://link.medium.com/k5BFUvuhDeb)
+  - [Machine Learning, NLP: Text Classification using sklearn, Python, and NLTK](https://link.medium.com/T3wLycFgDeb)
+  - [NLP -- Building a Question Answering model](https://link.medium.com/gdTrTxOgDeb)
+  - [Automated Keyword Extraction from Articles using NLP](https://link.medium.com/dFa7JSTgDeb)
 - Week 8: Genetic Algorithms and Sequencing
   - [How to Sequence a Human Genome](https://towardsdatascience.com/how-to-sequence-a-human-genome-a-bioinformatics-approach-ae64481cec7b)
 - Week 9: Feature Engineering & Decision Trees for Drug Development
