@@ -124,5 +124,14 @@
       <description>Natural Language Processing  Required:  Finish NLP workshop  Deliverables (things to write in your README):  Upload code and any screenshots of interesting graphics/output that you generated Write 2-3 sentences about what you learned about the sentiments and perspectives on the vaccines       Suggested/Just for fun:  Use the Tweepy API to get tweets about J&amp;amp;J and compare sentiments Read articles in the Reading List under Week 7 Data Quest!</description>
     </item>
     
+    <item>
+      <title>Week 7</title>
+      <link>https://datascience4biotech.com/modules/week07/</link>
+      <pubDate>Fri, 15 Jan 2021 23:07:09 -0800</pubDate>
+      
+      <guid>https://datascience4biotech.com/modules/week07/</guid>
+      <description>Week 7: Natural Language Processing Links  Class Slides NLP Workshop Jupyter Notebook  </description>
+    </item>
+    
   </channel>
 </rss>
