@@ -51,6 +51,7 @@ pre = "<b></b>"
 - Week 7: Natural Language Processing for Scientific Research
   - [Your Guide to Natural Language Processing (NLP)](https://link.medium.com/4nFDxZahDeb)
   - [The 7 NLP Techniques That Will Change How You Communicate in the Future](https://link.medium.com/k5BFUvuhDeb)
+  - [Introduction to Natural Language Processing for Text](https://towardsdatascience.com/introduction-to-natural-language-processing-for-text-df845750fb63)
   - [Machine Learning, NLP: Text Classification using sklearn, Python, and NLTK](https://link.medium.com/T3wLycFgDeb)
   - [NLP -- Building a Question Answering model](https://link.medium.com/gdTrTxOgDeb)
   - [Automated Keyword Extraction from Articles using NLP](https://link.medium.com/dFa7JSTgDeb)
