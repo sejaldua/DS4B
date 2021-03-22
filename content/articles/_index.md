@@ -58,6 +58,11 @@ pre = "<b></b>"
   - [Automated Keyword Extraction from Articles using NLP](https://link.medium.com/dFa7JSTgDeb)
 - Week 8: Genetic Algorithms and Sequencing
   - [How to Sequence a Human Genome](https://towardsdatascience.com/how-to-sequence-a-human-genome-a-bioinformatics-approach-ae64481cec7b)
+  - [MIT Technology Review: Illumina](https://www.technologyreview.com/2014/02/18/174007/why-illumina-is-no-1/)
+  - [Python for bioinformatics: Getting started with sequence analysis in Python](https://itnext.io/python-for-bioinformatics-getting-started-with-sequence-analysis-in-python-e18ce8c4be8)
+  - [Pairwise Sequence Alignment using Biopython](https://towardsdatascience.com/pairwise-sequence-alignment-using-biopython-d1a9d0ba861f)
+  - [Newbies Guide to Biopython — Part 1](https://medium.com/computational-biology/newbies-guide-to-biopython-part-1-9ec82c3dfe8f)
+  - [Advanced Functions in Biopython - Part 2](https://medium.com/computational-biology/advanced-functions-in-biopython-dc7733ccff34)
 - Week 9: Feature Engineering & Decision Trees for Drug Development
 - Week 10: Data Ethics, Cybersecurity, and Social Justice
   - [Black-Box Algorithms Shouldn’t Decide Who Gets a Vaccine](https://onezero.medium.com/black-box-algorithms-shouldnt-decide-who-gets-a-vaccine-492be4bbae3c)
