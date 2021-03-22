@@ -11,5 +11,6 @@ id = "typeform"
 
 #### Links
   - [Class Slides](https://docs.google.com/presentation/d/1RXUPjfmuKe0-IXz7V3LMx3vOVyjs-pr1jXnBhuuGBIk/edit?usp=sharing)
+  - [Bioinformatics Jamboard](https://jamboard.google.com/d/1MP0jqPHrYRfuG4nYOyrX5M8ujJpFXmWLFB_CuROOKUM/viewer)
   - [BioPython Documentation](https://biopython.org/wiki/Documentation)
   - [Gene Sequencing Workshop Jupyter Notebook](https://colab.research.google.com/drive/18QFO5wa31MmR01Lbcg0KQkK0Pj7Bgou3?usp=sharing)
