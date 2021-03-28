@@ -18,6 +18,7 @@ Our lecture slides and in-class materials are available here. Navigate to the su
 - [Week 6: Deep Learning & Computer Vision](https://datascience4biotech.com/modules/week06/) | [slides](https://docs.google.com/presentation/d/1ygzXLjbZxqpVxqgtJVJq5L2NDqWd6ucRcSdaAipgaAw/edit?usp=sharing)
 - [Week 7: Natural Language Processing (NLP)](https://datascience4biotech.com/modules/week07/) | [slides](https://docs.google.com/presentation/d/1mcr2FcN8S5K2yksntsA6WaD0ETICxc-cSzKFf_kNak4/edit?usp=sharing)
 - [Week 8: Genetic Algorithms & Gene Sequencing](https://datascience4biotech.com/modules/week08/) | [slides](https://docs.google.com/presentation/d/1RXUPjfmuKe0-IXz7V3LMx3vOVyjs-pr1jXnBhuuGBIk/edit?usp=sharing)
+- [Week 9: Feature Engineering & Decision Trees](https://datascience4biotech.com/modules/week09/) | [slides](https://docs.google.com/presentation/d/1DvWpHXXDj9moiENDeM_-bPxYDv3iBabbsA8v84iDQDA/edit?usp=sharing)
 
 ---
 
