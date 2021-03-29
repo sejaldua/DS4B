@@ -66,6 +66,7 @@ pre = "<b></b>"
 - Week 9: Feature Engineering & Decision Trees for Drug Development
   - [A Practical Guide to Feature Engineering in Python](https://heartbeat.fritz.ai/a-practical-guide-to-feature-engineering-in-python-8326e40747c8)
   - [Decision Trees -- An Intuitive Introduction](https://medium.com/x8-the-ai-community/decision-trees-an-intuitive-introduction-86c2b39c1a6c)
+  - [ML Overfitting --> Fukushima Nuclear Power Plant Disaster](https://ml.berkeley.edu/blog/posts/crash-course/part-4/)
 - Week 10: Data Ethics, Cybersecurity, and Social Justice
   - [Black-Box Algorithms Shouldn’t Decide Who Gets a Vaccine](https://onezero.medium.com/black-box-algorithms-shouldnt-decide-who-gets-a-vaccine-492be4bbae3c)
 - Week 11: Finding Applications Around You
