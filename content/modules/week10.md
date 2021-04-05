@@ -1,0 +1,13 @@
++++
+title = "Week 10"
+date = 2021-01-15T23:07:09-08:00
+weight = 5
+chapter = true
+pre = "<b></b>"
+id = "typeform"
++++
+
+## Week 10: Data Ethics and Cybersecurity
+
+#### Links
+  - [Class Slides](https://docs.google.com/presentation/d/1wYAJoA1mJcqr87GFX3D_og_6eNhVYOVqJGAlVyvu3sg/edit?usp=sharing)
