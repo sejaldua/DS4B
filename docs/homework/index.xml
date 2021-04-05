@@ -8,7 +8,7 @@
     <language>en-us</language>
     <lastBuildDate>Fri, 15 Jan 2021 23:07:09 -0800</lastBuildDate><atom:link href="https://datascience4biotech.com/homework/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Week 1</title>
+      <title>Week 01</title>
       <link>https://datascience4biotech.com/homework/week01/</link>
       <pubDate>Fri, 15 Jan 2021 23:07:09 -0800</pubDate>
       
@@ -17,17 +17,7 @@
     </item>
     
     <item>
-      <title>Week 10</title>
-      <link>https://datascience4biotech.com/homework/week10/</link>
-      <pubDate>Fri, 15 Jan 2021 23:07:09 -0800</pubDate>
-      
-      <guid>https://datascience4biotech.com/homework/week10/</guid>
-      <description>Data Ethics and Cybersecurity   Required:
- FINAL PROJECT  Meet with your group and submit final project proposal, group members, and links to potential datasets by email to Sook-Hee and Sejal Initialize final project repo within DS4B organization Invite collaborators to the repo Finalized research question/motivation in README Finalized dataset(s) to use and uploaded file in repository   Data Ethics  Watch either The Great Hack, The Social Dilemma, or Coded Bias on Netflix (Contact us accessibility is an issue for this).</description>
-    </item>
-    
-    <item>
-      <title>Week 2</title>
+      <title>Week 02</title>
       <link>https://datascience4biotech.com/homework/week02/</link>
       <pubDate>Fri, 15 Jan 2021 23:07:09 -0800</pubDate>
       
@@ -36,7 +26,7 @@
     </item>
     
     <item>
-      <title>Week 3</title>
+      <title>Week 03</title>
       <link>https://datascience4biotech.com/homework/week03/</link>
       <pubDate>Fri, 15 Jan 2021 23:07:09 -0800</pubDate>
       
@@ -45,7 +35,7 @@
     </item>
     
     <item>
-      <title>Week 4</title>
+      <title>Week 04</title>
       <link>https://datascience4biotech.com/homework/week04/</link>
       <pubDate>Fri, 15 Jan 2021 23:07:09 -0800</pubDate>
       
@@ -54,7 +44,7 @@
     </item>
     
     <item>
-      <title>Week 5</title>
+      <title>Week 05</title>
       <link>https://datascience4biotech.com/homework/week05/</link>
       <pubDate>Fri, 15 Jan 2021 23:07:09 -0800</pubDate>
       
@@ -63,7 +53,7 @@
     </item>
     
     <item>
-      <title>Week 6</title>
+      <title>Week 06</title>
       <link>https://datascience4biotech.com/homework/week06/</link>
       <pubDate>Fri, 15 Jan 2021 23:07:09 -0800</pubDate>
       
@@ -72,7 +62,7 @@
     </item>
     
     <item>
-      <title>Week 7</title>
+      <title>Week 07</title>
       <link>https://datascience4biotech.com/homework/week07/</link>
       <pubDate>Fri, 15 Jan 2021 23:07:09 -0800</pubDate>
       
@@ -81,7 +71,7 @@
     </item>
     
     <item>
-      <title>Week 8</title>
+      <title>Week 08</title>
       <link>https://datascience4biotech.com/homework/week08/</link>
       <pubDate>Fri, 15 Jan 2021 23:07:09 -0800</pubDate>
       
@@ -90,12 +80,21 @@
     </item>
     
     <item>
-      <title>Week 9</title>
+      <title>Week 09</title>
       <link>https://datascience4biotech.com/homework/week09/</link>
       <pubDate>Fri, 15 Jan 2021 23:07:09 -0800</pubDate>
       
       <guid>https://datascience4biotech.com/homework/week09/</guid>
       <description>Feature Engineering and Decision Trees  Required:  Go through datasets on the website and pick 2 that interest you and come up with project ideas and brief proposals that relate to those datasets (answer the 4 questions from the example proposal slide) Fill out the brief project planning survey below       (function(){var qs,js,q,s,d=document,gi=d.getElementById,ce=d.createElement,gt=d.getElementsByTagName,id=&#39;typef_orm&#39;,b=&#39;https://s3-eu-west-1.amazonaws.com/share.typeform.com/&#39;;if(!gi.call(d,id)){js=ce.call(d,&#39;script&#39;);js.id=id;js.src=b+&#39;widget.js&#39;;q=gt.call(d,&#39;script&#39;)[0];q.parentNode.insertBefore(js,q)}})()   </description>
+    </item>
+    
+    <item>
+      <title>Week 10</title>
+      <link>https://datascience4biotech.com/homework/week10/</link>
+      <pubDate>Fri, 15 Jan 2021 23:07:09 -0800</pubDate>
+      
+      <guid>https://datascience4biotech.com/homework/week10/</guid>
+      <description>Data Ethics, Cybersecurity, and Social Justice  Required:  FINAL PROJECT  Meet with your group and submit final project proposal, group members, and links to potential datasets by email to Sook-Hee and Sejal Initialize final project repo within DS4B organization Invite collaborators to the repo Finalized research question/motivation in README Finalized dataset(s) to use and uploaded file in repository   Data Ethics  Watch either The Great Hack, The Social Dilemma, or Coded Bias on Netflix (Contact us accessibility is an issue for this).</description>
     </item>
     
   </channel>

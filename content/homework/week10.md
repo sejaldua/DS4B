@@ -6,7 +6,7 @@ chapter = true
 pre = "<b></b>"
 +++
 
-#### Data Ethics and Cybersecurity
+#### Data Ethics, Cybersecurity, and Social Justice
 - **Required:**
   - FINAL PROJECT
     - Meet with your group and submit final project proposal, group members, and links to potential datasets by email to Sook-Hee and Sejal
@@ -19,8 +19,6 @@ pre = "<b></b>"
       - *The Great Hack*: How Cambridge Analytica came to symbolize the dark side of social media in the wake of the 2016 U.S. presidential election
       - *The Social Dilemma*: Tech experts sound the alarm on the dangerous human impact of social networking
       - *Coded Bias*: Exposes prejudices and threats to civil liberty in facial recognition algorithms and artificial intelligence
-
-
 - **Suggested**
   - Begin EDA for your project
   - DataQuest!
