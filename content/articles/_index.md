@@ -69,5 +69,7 @@ pre = "<b></b>"
   - [ML Overfitting --> Fukushima Nuclear Power Plant Disaster](https://ml.berkeley.edu/blog/posts/crash-course/part-4/)
 - Week 10: Data Ethics, Cybersecurity, and Social Justice
   - [Black-Box Algorithms Shouldn’t Decide Who Gets a Vaccine](https://onezero.medium.com/black-box-algorithms-shouldnt-decide-who-gets-a-vaccine-492be4bbae3c)
+  - [The Murky Ethics of Data Gathering in a Post-Cambridge Analytica World](https://www.ama.org/marketing-news/the-murky-ethics-of-data-gathering-in-a-post-cambridge-analytica-world/)
+  - [As Data Overflows Online, Researchers Grapple With Ethics](https://www.nytimes.com/2014/08/13/technology/the-boon-of-online-data-puts-social-science-in-a-quandary.html)
 - Week 11: Finding Applications Around You
 - Week 12: Roadblocks, Pipelines, and Scalability
