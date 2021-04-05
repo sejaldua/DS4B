@@ -71,5 +71,7 @@ pre = "<b></b>"
   - [Black-Box Algorithms Shouldn’t Decide Who Gets a Vaccine](https://onezero.medium.com/black-box-algorithms-shouldnt-decide-who-gets-a-vaccine-492be4bbae3c)
   - [The Murky Ethics of Data Gathering in a Post-Cambridge Analytica World](https://www.ama.org/marketing-news/the-murky-ethics-of-data-gathering-in-a-post-cambridge-analytica-world/)
   - [As Data Overflows Online, Researchers Grapple With Ethics](https://www.nytimes.com/2014/08/13/technology/the-boon-of-online-data-puts-social-science-in-a-quandary.html)
+  - [The Coded Gaze: Bias in Artificial Intelligence | Equality Summit](https://www.youtube.com/watch?v=eRUEVYndh9c)
+  - [How To Stop Artificial Intelligence From Marginalizing Communities? | Timnit Gebru | TEDxCollegePark](https://www.youtube.com/watch?v=PWCtoVt1CJM)
 - Week 11: Finding Applications Around You
 - Week 12: Roadblocks, Pipelines, and Scalability
