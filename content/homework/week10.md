@@ -9,7 +9,7 @@ pre = "<b></b>"
 #### Data Ethics, Cybersecurity, and Social Justice
 - **Required:**
   - FINAL PROJECT
-    - Meet with your group and submit final project proposal, group members, and links to potential datasets by email to Sook-Hee and Sejal
+    - Pick 1-2 proposals that you like from the [proposals deck](https://docs.google.com/presentation/d/1Xb7qbiMLgxmIPUrt0yB0vaNKaAssNI8uSo1IQBPzUIc/edit#slide=id.gcea79551e1_0_38) and meet with your group to discuss. Submit final project proposal, group members, and links to potential datasets by email to Sook-Hee and Sejal
     - Initialize final project repo within DS4B organization
     - Invite collaborators to the repo
     - Finalized research question/motivation in README
