@@ -22,4 +22,5 @@ pre = "<b></b>"
 - **Suggested**
   - Begin EDA for your project
   - DataQuest!
+  - Prepare 1-2 questions for our guest speaker [Andrew Dumit](https://www.linkedin.com/in/adumit/) (from [Buoy Health](https://www.buoyhealth.com)) next week! Also try out their AI-based conversational-style platform with some example symptoms.
   - Chat with your roommate / housemate / parents about data ethics! The more we talk about it, the more aware and informed we will be, which generates more noise around the topic, which ultimately leads to change! :)
