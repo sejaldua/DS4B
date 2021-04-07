@@ -74,4 +74,5 @@ pre = "<b></b>"
   - [The Coded Gaze: Bias in Artificial Intelligence | Equality Summit](https://www.youtube.com/watch?v=eRUEVYndh9c)
   - [How To Stop Artificial Intelligence From Marginalizing Communities? | Timnit Gebru | TEDxCollegePark](https://www.youtube.com/watch?v=PWCtoVt1CJM)
 - Week 11: Finding Applications Around You
+  - [Best of Streamlit: A Gallery](https://github.com/jrieke/best-of-streamlit)
 - Week 12: Roadblocks, Pipelines, and Scalability
