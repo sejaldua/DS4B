@@ -28,7 +28,7 @@ pre = "<b></b>"
 #### Unit 3: Becoming a Practitioner
 - Week 10: Data Ethics, Cybersecurity, and Social Justice [April 5, 2021]
   - **Guest Speaker:** [Ming Chow](https://engineering.tufts.edu/people/faculty/ming-chow)
-- Week 11: Finding Applications Around You [April 12, 2021]
+- Week 11: Ethics (*continued*) and Breaking into Data Science [April 12, 2021]
   - **Guest Speaker:** Andrew Dumit [(Buoy Health)](https://www.linkedin.com/company/buoyhealth/)
 - Week 12: Roadblocks, Pipelines, and Scalability [April 26, 2021]
 - Week 13: Final Class Presentations [May 3, 2021]
