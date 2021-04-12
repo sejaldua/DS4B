@@ -29,6 +29,15 @@ id = "typeform"
       8. In desperation, the family in the film uses a Kitchen Safe to lock up their screens, but this solution is short-lived. What is your family’s relationship with your devices and social media at home? Were there any moments between the film’s fictional family that felt particularly resonant?
       9. What are some concrete actions major tech companies could take to better protect children and preserve your family’s time and connection?
     - **Coded Bias**
-      1. test
+      1. How do algorithms influence what news we see online or the perspectives we see on social media? How does AI shape the way we all think?
+      2. Early AI developers measured the intelli- gence of the technology by its ability to play games, such as chess. Why might this defi- nition of intelligence be limiting? What other forms of intelligence are important measures for technology?
+      3. Do you think police or immigration enforcers should be allowed to search databases that store your driver’s license photo or passport photo? Why or why not?
+      4. Joy Buolamwini describes Amazon’s response to her research on bias in its products as “a continuation of the experiences I’ve had as a woman of color in tech. Expect to be discredited. Expect your research to be dis- missed.” Is this an experience you can relate to in your work? Why or why not?
+      5. How is AI being used during the COVID-19 pandemic? What human rights concerns relat- ed to pandemic data and surveillance should health officials be considering?
+      6. How is the tech industry doing when it comes to promoting inclusion in the workforce? What more needs to be done to ensure that everyone has a fair opportunity to work in tech?
+      7. What effect do you think a more inclusive workforce would have on the tech industry? Do you think tech products would be less biased? Why or why not?
+      8. What promising practices have you seen in teaching tech ethics and/or increasing student inclusion in computer science programs?
+      9. What is your vision for AI development in the future? How would you like to see the technology evolve?
+
 
 
