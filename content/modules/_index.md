@@ -20,6 +20,7 @@ Our lecture slides and in-class materials are available here. Navigate to the su
 - [Week 8: Genetic Algorithms & Gene Sequencing](https://datascience4biotech.com/modules/week08/) | [slides](https://docs.google.com/presentation/d/1RXUPjfmuKe0-IXz7V3LMx3vOVyjs-pr1jXnBhuuGBIk/edit?usp=sharing)
 - [Week 9: Feature Engineering & Decision Trees](https://datascience4biotech.com/modules/week09/) | [slides](https://docs.google.com/presentation/d/1DvWpHXXDj9moiENDeM_-bPxYDv3iBabbsA8v84iDQDA/edit?usp=sharing)
 - [Week 10: Data Ethics, Cybersecurity, and Social Justice](https://datascience4biotech.com/modules/week10/) | [slides](https://docs.google.com/presentation/d/1wYAJoA1mJcqr87GFX3D_og_6eNhVYOVqJGAlVyvu3sg/edit?usp=sharing)
+- [Week 11: Ethics and Breaking into Data Science](https://datascience4biotech.com/modules/week11/) | [slides](https://docs.google.com/presentation/d/1gOt1ObAofdTUCFj-KFnhvncqd25v69sVJhsvgo3QA00/edit?usp=sharing)
 
 ---
 
