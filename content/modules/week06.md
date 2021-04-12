@@ -8,8 +8,6 @@ id = "typeform"
 +++
 
 #### Week 6: Deep Learning & Computer Vision
-
-##### Links
   - [Class Slides](https://docs.google.com/presentation/d/1ygzXLjbZxqpVxqgtJVJq5L2NDqWd6ucRcSdaAipgaAw/edit#slide=id.g35f391192_00)
   - [Guest Lecture by Nicolai Frost Jacobsen (Corti AI)](https://vimeo.com/521092783)
   - [Mid-Semester Feedback Survey](https://sejaldua.typeform.com/to/Lr7HRDeM)

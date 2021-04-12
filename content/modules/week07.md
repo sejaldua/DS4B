@@ -8,8 +8,6 @@ id = "typeform"
 +++
 
 #### Week 7: Natural Language Processing
-
-##### Links
   - [Class Slides](https://docs.google.com/presentation/d/1mcr2FcN8S5K2yksntsA6WaD0ETICxc-cSzKFf_kNak4/edit?usp=sharing)
   - [AllenNLP Sentiment Analysis Playground](https://demo.allennlp.org/sentiment-analysis/glove-sentiment-analysis)
   - [TextBlob Documentation](https://textblob.readthedocs.io/en/latest/index.html)

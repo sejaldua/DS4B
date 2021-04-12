@@ -9,7 +9,6 @@ id = "typeform"
 
 #### Week 8: Genetic Algorithms & Gene Sequencing
 
-##### Links
   - [Class Slides](https://docs.google.com/presentation/d/1RXUPjfmuKe0-IXz7V3LMx3vOVyjs-pr1jXnBhuuGBIk/edit?usp=sharing)
   - [Bioinformatics Jamboard](https://jamboard.google.com/d/1MP0jqPHrYRfuG4nYOyrX5M8ujJpFXmWLFB_CuROOKUM/viewer)
   - [BioPython Documentation](https://biopython.org/wiki/Documentation)

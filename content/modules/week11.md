@@ -9,7 +9,6 @@ id = "typeform"
 
 #### Week 11: Ethics (*continued*) and Breaking into Data Science
 
-##### Links
   - [Class Slides](https://docs.google.com/presentation/d/1gOt1ObAofdTUCFj-KFnhvncqd25v69sVJhsvgo3QA00/edit?usp=sharing)
   - Data Ethics Film Discussions
     - **The Great Hack**

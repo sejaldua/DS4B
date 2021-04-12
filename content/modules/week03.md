@@ -7,8 +7,6 @@ pre = "<b></b>"
 +++
 
 #### Week 3: Data Visualization
-
-##### Links
   - [Class Slides](https://docs.google.com/presentation/d/1_Uh95qtVTvW7ptP6-seTcxI9OMMTG_T16nZ7OLu1M00/edit?usp=sharing)
   - Guest Speaker: Megan Monroe
     - [Profile](https://engineering.tufts.edu/people/faculty/megan-monroe)

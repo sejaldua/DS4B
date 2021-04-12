@@ -7,8 +7,6 @@ pre = "<b></b>"
 +++
 
 #### Week 5: Imaging and Diagnostics
-
-##### Links
   - [Class Slides](https://docs.google.com/presentation/d/1J3ewzfLj4fSwLlzeQ1rWueXIY4han0fY3ZmllgSX8s0/edit?usp=sharing)
   - Guest Speaker: Fiorenzo Omenetto
     - [Profile](https://engineering.tufts.edu/bme/people/faculty/fiorenzo-omenetto)
