@@ -6,9 +6,9 @@ chapter = true
 pre = "<b></b>"
 +++
 
-## Week 4: Neural Networks
+#### Week 4: Neural Networks
 
-#### Links
+##### Links
   - [Class Slides](https://docs.google.com/presentation/d/1ZJpxLbsB46wY3ll9Jk8sHNY4GYKoVj6meYpKoie0XCc/edit#slide=id.gc00753aa27_0_1509)
   - Guest Speaker: Soha Hassoun
     - [Profile](https://engineering.tufts.edu/people/faculty/soha-hassoun)

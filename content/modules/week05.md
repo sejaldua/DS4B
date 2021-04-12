@@ -6,9 +6,9 @@ chapter = true
 pre = "<b></b>"
 +++
 
-## Week 5: Imaging and Diagnostics
+#### Week 5: Imaging and Diagnostics
 
-#### Links
+##### Links
   - [Class Slides](https://docs.google.com/presentation/d/1J3ewzfLj4fSwLlzeQ1rWueXIY4han0fY3ZmllgSX8s0/edit?usp=sharing)
   - Guest Speaker: Fiorenzo Omenetto
     - [Profile](https://engineering.tufts.edu/bme/people/faculty/fiorenzo-omenetto)
@@ -21,7 +21,7 @@ pre = "<b></b>"
   - [Eyes of Watson: IBM Research Bringing AI to Radiology](https://www.itnonline.com/videos/video-examples-artificial-intelligence-medical-imaging-diagnostics)
   - [Watson Visual Recognition](https://visual-recognition-code-pattern.ng.bluemix.net)
 
-#### Playgrounds
+##### Playgrounds
 - [2D Visualization of a CNN](https://www.cs.ryerson.ca/~aharley/vis/conv/flat.html)
 - [3D Visualization of a CNN](https://www.cs.ryerson.ca/~aharley/vis/conv/)
 - [ConvNet Playground: Image Similarity Search](https://convnetplayground.fastforwardlabs.com/#/)
@@ -29,7 +29,7 @@ pre = "<b></b>"
 - [CNN Explainer](https://poloclub.github.io/cnn-explainer/)
   - [Demo Video](https://www.youtube.com/watch?v=HnWIHWFbuUQ&feature=youtu.be)
 
-#### Imaging Datasets
+##### Imaging Datasets
 
 - [**binarized_mnist**: Handwritten Digits](https://www.tensorflow.org/datasets/catalog/binarized_mnist)
 - [**bccd**: Blood Cells Detection](https://www.tensorflow.org/datasets/catalog/bccd)
