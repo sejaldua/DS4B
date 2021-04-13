@@ -28,6 +28,20 @@
 	"content": "Datasets  Healthcare / Medicine / Biotech Realm  15 Open Datasets for Healthcare Pfizer Vaccine Tweets COVID-19 Open Research Dataset Challenge (CORD-19) Novel Corona Virus 2019 Dataset Heart Disease UCI Chest X-Ray Images (Pneumonia) NeurIPS 2020: Data Science for COVID-19 (DS4C) Cancer Imaging Archive Blood Cells Detection   Miscellaneous  Datasets that you can load with Python 5 real world datasets for honing your EDA skills 1.88 million US Wildfires Spotify Dataset 1921-2020, 160k+ Tracks 120 years of Olympic History: Athletes and Results Interesting Data to Visualize Plotly Datasets (CSV)    "
 },
 {
+	"uri": "https://datascience4biotech.com/projects/",
+	"title": "Final Projects",
+	"tags": [],
+	"description": "",
+	"content": "Final Projects Timeline  Pitches [April 5th, 2021] Project Proposals [April 12th, 2021] Checkpoint [April 26th, 2021] Presentations [May 3rd, 2021]  "
+},
+{
+	"uri": "https://datascience4biotech.com/projects/group1/",
+	"title": "Group 1",
+	"tags": [],
+	"description": "",
+	"content": "Proposal Research Question/Hypothesis: We don\u0026rsquo;t have a specific hypothesis. Instead we will be using the Spotify 1921-2020 dataset to conduct an exploratory visual analysis via Tableau; our goal is to understand how music has evolved over time and how the popularity of different genres shifts along with that. To provide additional context around music evolution over time, we\u0026rsquo;d like to map out music/genre popularity by global region. We will be using a 2017-2018 dataset to visualize that and wrap up the \u0026ldquo;music evolution\u0026rdquo; story we\u0026rsquo;ll be telling with our dashboard.\nTarget Deliverables:\n (Potentially interactive) Tableau dashboard that tells a story about how music has transformed over the years + music popularity by region Presentation of our dashboard explaining the process behind creating it, our overall goals, and what we’ve learned.  Datasets being used:\n https://www.kaggle.com/yamaerenay/spotify-dataset-19212020-160k-tracks?select=data_by_year_o.csv https://www.kaggle.com/edumucelli/spotifys-worldwide-daily-song-ranking  Group members: Joshua Keys, Alex Hackett, Michelle Roitgarts\n"
+},
+{
 	"uri": "https://datascience4biotech.com/homework/",
 	"title": "Homework",
 	"tags": [],

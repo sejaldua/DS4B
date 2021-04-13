@@ -8,6 +8,15 @@
     <language>en-us</language>
     <lastBuildDate>Fri, 15 Jan 2021 23:07:09 -0800</lastBuildDate><atom:link href="https://datascience4biotech.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Group 1</title>
+      <link>https://datascience4biotech.com/projects/group1/</link>
+      <pubDate>Fri, 15 Jan 2021 23:07:09 -0800</pubDate>
+      
+      <guid>https://datascience4biotech.com/projects/group1/</guid>
+      <description>Proposal Research Question/Hypothesis: We don&amp;rsquo;t have a specific hypothesis. Instead we will be using the Spotify 1921-2020 dataset to conduct an exploratory visual analysis via Tableau; our goal is to understand how music has evolved over time and how the popularity of different genres shifts along with that. To provide additional context around music evolution over time, we&amp;rsquo;d like to map out music/genre popularity by global region. We will be using a 2017-2018 dataset to visualize that and wrap up the &amp;ldquo;music evolution&amp;rdquo; story we&amp;rsquo;ll be telling with our dashboard.</description>
+    </item>
+    
+    <item>
       <title>Week 01</title>
       <link>https://datascience4biotech.com/homework/week01/</link>
       <pubDate>Fri, 15 Jan 2021 23:07:09 -0800</pubDate>
