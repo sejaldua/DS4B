@@ -8,7 +8,7 @@ pre = "<b></b>"
 
 #### Roadblocks, Pipelines, and Scalability
 - **Required:**
-  - Finish your final project!
+  - Finish your final project! Email us your slides!
   - Fill out the course feedback survey sent to your emails!
 - **Suggested**
   - DataQuest!
