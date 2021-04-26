@@ -9,7 +9,7 @@
 
     <link rel="icon" href="/images/favicon.png" type="image/png">
 
-    <title>Week 01 :: Data Science for Biotechnology</title>
+    <title>Week 12 :: Data Science for Biotechnology</title>
 
     
     <link href="/css/nucleus.css?1619460052" rel="stylesheet">
@@ -60,7 +60,7 @@ if (!doNotTrack) {
 <script async src='https://www.google-analytics.com/analytics.js'></script>
 
   </head>
-  <body class="" data-url="/modules/week01/">
+  <body class="" data-url="/modules/week12/">
     <nav id="sidebar" class="">
 
 
@@ -532,7 +532,7 @@ if (!doNotTrack) {
  
   
     
-      <li data-nav-id="/modules/week01/" title="Week 01" class="dd-item active">
+      <li data-nav-id="/modules/week01/" title="Week 01" class="dd-item ">
         <a href="/modules/week01/">
         <b></b>Week 01
         
@@ -763,7 +763,7 @@ if (!doNotTrack) {
  
   
     
-      <li data-nav-id="/modules/week12/" title="Week 12" class="dd-item ">
+      <li data-nav-id="/modules/week12/" title="Week 12" class="dd-item active">
         <a href="/modules/week12/">
         <b></b>Week 12
         
@@ -878,7 +878,7 @@ if (!doNotTrack) {
             
           
           
-            <a href='/'>Course Overview</a> > <a href='/modules/'>Modules</a> > Week 01
+            <a href='/'>Course Overview</a> > <a href='/modules/'>Modules</a> > Week 12
           
         
           
@@ -915,125 +915,17 @@ if (!doNotTrack) {
           
             <h1>
               
-              Week 01
+              Week 12
             </h1>
           
 
         
 
 
-<h4 id="week-1-introduction-to-the-course">Week 1: Introduction to the Course</h4>
+<h4 id="week-12-roadblocks-pipelines-and-scalability">Week 12: Roadblocks, Pipelines, and Scalability</h4>
 <ul>
-<li><a href="https://docs.google.com/presentation/d/1B3GLmOKmym7JMYj06Q865fuApQszjTDTWOVYrH0e08E/edit?usp=sharing">Class Slides</a></li>
-<li><a href="https://jamboard.google.com/d/1ntpj-70ocjw3SVeuf7Vvx8R5nF-UqybJMj3N4g3amKU/edit?usp=sharing">Data Science vs. Computer Science Jamboard</a></li>
-<li><a href="https://jamboard.google.com/d/17jsniEhMqjAtsPK9wkL8No7C2DRd3lxUcwLJoGwkZc8/edit?usp=sharing">Biotechnology Jamboard</a></li>
-<li><a href="https://jupyter.readthedocs.io/en/latest/install/notebook-classic.html">Jupyter Notebook Setup</a></li>
-<li><a href="https://docs.github.com/en/github/getting-started-with-github/create-a-repo">Creating a GitHub Repository</a></li>
-<li><a href="https://www.kaggle.com/datasets">Kaggle Datasets</a></li>
-<li><a href="https://www.geeksforgeeks.org/python-linear-regression-using-sklearn/">Creating a Simple Linear Regression using sklearn</a></li>
+<li><a href="https://docs.google.com/presentation/d/13x_Z0A_NcRBb_2KKHq_J1pXeE9HXVqEt4W1kYxKcfuI/edit?usp=sharing">Class Slides</a></li>
 </ul>
-<h5 id="jupyter-notebook-installation">Jupyter Notebook Installation</h5>
-<ul>
-<li><strong>OPTION 1:</strong> Anaconda &gt; Jupyter Notebooks</li>
-</ul>
-<pre><code>$ conda install -c conda-forge notebook
-</code></pre><ul>
-<li><strong>OPTION 2:</strong> If you already have Python installed, you can use a software management tool called <code>pip</code>.</li>
-</ul>
-<pre><code>$ pip3 install jupyter
-</code></pre><p>OR</p>
-<pre><code>$ pip3 install notebook
-</code></pre><hr>
-<h5 id="running-the-notebook-server">Running the Notebook Server</h5>
-<pre><code>$ jupyter notebook
-</code></pre><ul>
-<li>The above command will start the notebook server (using a localhost at port 8888, typically). Some information about the notebook server will be printed in your terminal, including the URL of the web application.</li>
-<li>Navigate to <a href="http://localhost:8888">http://localhost:8888</a>. Then under the menu at the top right, click &ldquo;New&rdquo; &gt; &ldquo;Python 3&rdquo;.</li>
-<li>In your blank notebook, your cursor should be in a new cell now. Cells are where you write Python code. You can click the &ldquo;Run&rdquo; button or press Shift + Enter to run a cell. Cells can be run in any order, but they should usually be written in such a way that you can run all the cells in succession when you are done developing in your notebook.</li>
-</ul>
-<h5 id="diabetes-demo">Diabetes Demo</h5>
-<ul>
-<li>Let&rsquo;s perform a simple regression on a diabetes dataset!</li>
-<li>Before we begin, we will need 3 powerful and awesome packages: <code>sklearn</code> (contains our dataset and built in functions for a linear regression) <code>matplotlib</code> (visualization), <code>numpy</code> (statistical and mathematical operations). To import these packages (if you do not have them already), in your blank Jupyter Notebook cell, enter the following:</li>
-</ul>
-<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-python" data-lang="python"><span style="color:#960050;background-color:#1e0010">!</span>pip install matplotlib
-<span style="color:#960050;background-color:#1e0010">!</span>pip install numpy
-<span style="color:#960050;background-color:#1e0010">!</span>pip install sklearn
-</code></pre></div><ul>
-<li>Now that we have those, let&rsquo;s create a new cell.</li>
-<li>Import the packages we will be using by entering the following:</li>
-</ul>
-<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-python" data-lang="python"><span style="color:#f92672">import</span> matplotlib.pyplot <span style="color:#f92672">as</span> plt
-<span style="color:#f92672">import</span> numpy <span style="color:#f92672">as</span> np
-<span style="color:#f92672">from</span> sklearn <span style="color:#f92672">import</span> datasets, linear_model
-<span style="color:#f92672">from</span> sklearn.metrics <span style="color:#f92672">import</span> mean_squared_error, r2_score
-</code></pre></div><ul>
-<li>Now it is time to load in and explore the diabetes dataset.</li>
-<li>In a new cell, enter the following:</li>
-</ul>
-<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-python" data-lang="python"><span style="color:#75715e"># Load the diabetes dataset</span>
-diabetes_X, diabetes_y <span style="color:#f92672">=</span> datasets<span style="color:#f92672">.</span>load_diabetes(return_X_y<span style="color:#f92672">=</span>True)
-<span style="color:#66d9ef">print</span>(<span style="color:#e6db74">&#34;X: &#34;</span>, diabetes_X)
-<span style="color:#66d9ef">print</span>(<span style="color:#e6db74">&#34;y: &#34;</span>, diabetes_y)
-</code></pre></div><ul>
-<li>The above cell should have outputted lots of data that does not have inherent meaning.</li>
-<li>To provide some context, the X data contains an n x 10 array of data representing measurements obtained from diabetes patients where n = 442. The ten measurements obtained include age, sex, body mass index (BMI), average blood pressure, and other variables indicating the composition of blood (T-Cells, low-density lipoproteins, high-density lipoproteins, thyroid stimulating hormone, lamotrigine, and blood sugar level). Each of these 10 <strong>feature variables</strong> have been mean centered and scaled by the standard deviation times n.</li>
-<li>The target / <strong>response variable</strong>, y, is a quantitative measure of disease progression one year after baseline.</li>
-</ul>
-<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-python" data-lang="python"><span style="color:#75715e"># Use only one feature</span>
-diabetes_X <span style="color:#f92672">=</span> diabetes_X[:, np<span style="color:#f92672">.</span>newaxis, <span style="color:#ae81ff">2</span>]
-
-<span style="color:#75715e"># Split the data into training/testing sets</span>
-diabetes_X_train <span style="color:#f92672">=</span> diabetes_X[:<span style="color:#f92672">-</span><span style="color:#ae81ff">20</span>]
-diabetes_X_test <span style="color:#f92672">=</span> diabetes_X[<span style="color:#f92672">-</span><span style="color:#ae81ff">20</span>:]
-
-<span style="color:#75715e"># Split the targets into training/testing sets</span>
-diabetes_y_train <span style="color:#f92672">=</span> diabetes_y[:<span style="color:#f92672">-</span><span style="color:#ae81ff">20</span>]
-diabetes_y_test <span style="color:#f92672">=</span> diabetes_y[<span style="color:#f92672">-</span><span style="color:#ae81ff">20</span>:]
-</code></pre></div><ul>
-<li>We must split our dataset into a training set (the majority of the dataset) and a testing set (the last 20 rows in the dataset). The idea behind this is that we want our model to learn from some large chunk of data and then we want to use the linear relationship it has modeled between X and y to predict the y values for some unseen X array. If we can successfully yield meaningful predictions, the model can potentially be used on patients for whom diabetes progression is unknown.</li>
-<li>Let&rsquo;s perform the linear regression using <code>sklearn</code>&rsquo;s nicely packaged linear regression library. NOTE: you do not have to understand how linear regression works. We will go over that next week!</li>
-</ul>
-<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-python" data-lang="python"><span style="color:#75715e"># Create linear regression object</span>
-regr <span style="color:#f92672">=</span> linear_model<span style="color:#f92672">.</span>LinearRegression()
-
-<span style="color:#75715e"># Train the model using the training sets</span>
-regr<span style="color:#f92672">.</span>fit(diabetes_X_train, diabetes_y_train)
-
-<span style="color:#75715e"># Make predictions using the testing set</span>
-diabetes_y_pred <span style="color:#f92672">=</span> regr<span style="color:#f92672">.</span>predict(diabetes_X_test)
-</code></pre></div><ul>
-<li>The idea in the above code cell is to train our model using the large chunk of training data and then use the &ldquo;fitted&rdquo; model to obtain predictions for the unseen (&ldquo;test&rdquo;) data.</li>
-<li>Let&rsquo;s try to quantify how good our model is with some common machine learning metrics for performance assessment:</li>
-</ul>
-<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-python" data-lang="python"><span style="color:#75715e"># The coefficients</span>
-<span style="color:#66d9ef">print</span>(<span style="color:#e6db74">&#39;Coefficients: </span><span style="color:#ae81ff">\n</span><span style="color:#e6db74">&#39;</span>, regr<span style="color:#f92672">.</span>coef_)
-<span style="color:#75715e"># The mean squared error</span>
-<span style="color:#66d9ef">print</span>(<span style="color:#e6db74">&#39;Mean squared error: </span><span style="color:#e6db74">%.2f</span><span style="color:#e6db74">&#39;</span>
-      <span style="color:#f92672">%</span> mean_squared_error(diabetes_y_test, diabetes_y_pred))
-<span style="color:#75715e"># The coefficient of determination: 1 is perfect prediction</span>
-<span style="color:#66d9ef">print</span>(<span style="color:#e6db74">&#39;Coefficient of determination: </span><span style="color:#e6db74">%.2f</span><span style="color:#e6db74">&#39;</span>
-      <span style="color:#f92672">%</span> r2_score(diabetes_y_test, diabetes_y_pred))
-</code></pre></div><ul>
-<li>You don&rsquo;t have to understand what any of the above numbers mean! Do not worry.</li>
-<li>Now, for the fun part&hellip; let&rsquo;s visualize how our linear regression model did on the test set.</li>
-</ul>
-<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-python" data-lang="python"><span style="color:#75715e"># Plot outputs</span>
-plt<span style="color:#f92672">.</span>scatter(diabetes_X_test, diabetes_y_test,  color<span style="color:#f92672">=</span><span style="color:#e6db74">&#39;black&#39;</span>)
-plt<span style="color:#f92672">.</span>plot(diabetes_X_test, diabetes_y_pred, color<span style="color:#f92672">=</span><span style="color:#e6db74">&#39;blue&#39;</span>, linewidth<span style="color:#f92672">=</span><span style="color:#ae81ff">3</span>)
-
-plt<span style="color:#f92672">.</span>xticks(())
-plt<span style="color:#f92672">.</span>yticks(())
-
-plt<span style="color:#f92672">.</span>show()
-</code></pre></div><ul>
-<li>Yayyyy! We did it!</li>
-<li>If things did not go so well, compare your code against this <a href="https://github.com/sejaldua/DS4B/blob/master/demos/week01_diabetes_demo.ipynb">this source code</a>.</li>
-<li>If all went well, you should see something like the following:</li>
-</ul>
-<p><img src="../../images/linreg.png" alt="lin reg viz"></p>
-<p>Code source: Jaques Grobler<br>
-License: BSD 3 clause</p>
 
 
 <footer class="footline">
@@ -1360,23 +1252,6 @@ License: BSD 3 clause</p>
             
                 
                     
-                    
-                
-                
-
-                    
-                    
-                    
-
-                    
-            
-        
-                    
-                        
-            
-            
-                
-                    
                         
                         
                     
@@ -1551,6 +1426,23 @@ License: BSD 3 clause</p>
             
         
                     
+                        
+            
+            
+                
+                    
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
             
         
                     
@@ -1558,6 +1450,9 @@ License: BSD 3 clause</p>
             
             
                 
+                    
+                        
+                        
                     
                 
                 
@@ -1595,10 +1490,10 @@ License: BSD 3 clause</p>
 	 
 	 
 		
-			<a class="nav nav-prev" href="/modules/" title="Modules"> <i class="fa fa-chevron-left"></i></a>
+			<a class="nav nav-prev" href="/modules/week11/" title="Week 11"> <i class="fa fa-chevron-left"></i></a>
 		
 		
-			<a class="nav nav-next" href="/modules/week02/" title="Week 02" style="margin-right: 0px;"><i class="fa fa-chevron-right"></i></a>
+			<a class="nav nav-next" href="/articles/" title="Reading List" style="margin-right: 0px;"><i class="fa fa-chevron-right"></i></a>
 		
 	
     </div>
